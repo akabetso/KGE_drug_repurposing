@@ -1,0 +1,459 @@
+2024-05-20 13:52:11,435 Model: TransE
+2024-05-20 13:52:11,455 Data Path: data/FB15k
+2024-05-20 13:52:11,455 #entity: 0
+2024-05-20 13:52:11,469 #relation: 0
+2024-05-20 13:52:37,065 Model: TransE
+2024-05-20 13:52:37,068 Data Path: data/FB15k
+2024-05-20 13:52:37,076 #entity: 0
+2024-05-20 13:52:37,078 #relation: 0
+2024-05-20 13:52:37,086 #train: 0
+2024-05-20 13:52:52,009 Model: TransE
+2024-05-20 13:52:52,011 Data Path: data/FB15k
+2024-05-20 13:52:52,013 #entity: 0
+2024-05-20 13:52:52,014 #relation: 0
+2024-05-20 13:52:52,018 #train: 0
+2024-05-20 13:52:52,022 #valid: 0
+2024-05-20 13:53:10,812 Model: TransE
+2024-05-20 13:53:10,816 Data Path: data/FB15k
+2024-05-20 13:53:10,820 #entity: 0
+2024-05-20 13:53:10,822 #relation: 0
+2024-05-20 13:53:10,828 #train: 0
+2024-05-20 13:53:10,846 #valid: 0
+2024-05-20 13:53:10,848 #test: 0
+2024-05-20 13:53:12,759 Model Parameter Configuration:
+2024-05-20 13:53:12,806 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 13:53:12,817 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 13:53:12,846 Parameter entity_embedding: torch.Size([0, 200]), require_grad = True
+2024-05-20 13:53:12,851 Parameter relation_embedding: torch.Size([0, 200]), require_grad = True
+2024-05-20 13:54:27,626 Model: TransE
+2024-05-20 13:54:27,644 Data Path: data/FB15k
+2024-05-20 13:54:27,644 #entity: 0
+2024-05-20 13:54:27,663 #relation: 0
+2024-05-20 13:54:27,665 #train: 0
+2024-05-20 13:54:27,665 #valid: 0
+2024-05-20 13:54:27,665 #test: 0
+2024-05-20 13:54:27,676 Model Parameter Configuration:
+2024-05-20 13:54:27,679 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 13:54:27,682 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 13:54:27,685 Parameter entity_embedding: torch.Size([0, 200]), require_grad = True
+2024-05-20 13:54:27,686 Parameter relation_embedding: torch.Size([0, 200]), require_grad = True
+2024-05-20 14:10:26,469 Model: TransE
+2024-05-20 14:10:26,470 Data Path: data/FB15k
+2024-05-20 14:10:26,476 #entity: 0
+2024-05-20 14:10:26,482 #relation: 0
+2024-05-20 14:10:26,485 #train: 0
+2024-05-20 14:10:26,486 #valid: 0
+2024-05-20 14:10:26,499 #test: 0
+2024-05-20 14:10:26,504 Model Parameter Configuration:
+2024-05-20 14:10:26,505 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 14:10:26,509 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 14:10:26,516 Parameter entity_embedding: torch.Size([0, 200]), require_grad = True
+2024-05-20 14:10:26,526 Parameter relation_embedding: torch.Size([0, 200]), require_grad = True
+2024-05-20 15:34:13,627 Model: TransE
+2024-05-20 15:34:13,653 Data Path: data/FB15k
+2024-05-20 15:34:13,656 #entity: 45160
+2024-05-20 15:34:13,659 #relation: 25
+2024-05-20 15:34:13,662 #train: 0
+2024-05-20 15:34:13,666 #valid: 0
+2024-05-20 15:34:13,669 #test: 0
+2024-05-20 15:34:15,006 Model Parameter Configuration:
+2024-05-20 15:34:15,013 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 15:34:15,016 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 15:34:15,019 Parameter entity_embedding: torch.Size([45160, 200]), require_grad = True
+2024-05-20 15:34:15,021 Parameter relation_embedding: torch.Size([25, 200]), require_grad = True
+2024-05-20 16:09:10,216 Model: TransE
+2024-05-20 16:09:10,219 Data Path: data/FB15k
+2024-05-20 16:09:10,220 #entity: 45158
+2024-05-20 16:09:10,223 #relation: 24
+2024-05-20 16:09:17,022 #train: 1440125
+2024-05-20 16:09:18,459 #valid: 360032
+2024-05-20 16:09:20,492 #test: 450040
+2024-05-20 16:09:20,946 Model Parameter Configuration:
+2024-05-20 16:09:20,950 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 16:09:20,957 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 16:09:20,960 Parameter entity_embedding: torch.Size([45158, 200]), require_grad = True
+2024-05-20 16:09:20,965 Parameter relation_embedding: torch.Size([24, 200]), require_grad = True
+2024-05-20 16:10:15,560 Randomly Initializing TransE Model...
+2024-05-20 16:10:15,563 Start Training...
+2024-05-20 16:10:15,565 init_step = 0
+2024-05-20 16:10:15,568 batch_size = 1024
+2024-05-20 16:10:15,571 negative_adversarial_sampling = 0
+2024-05-20 16:10:15,574 hidden_dim = 200
+2024-05-20 16:10:15,577 gamma = 12.000000
+2024-05-20 16:10:15,580 negative_adversarial_sampling = False
+2024-05-20 16:10:15,584 learning_rate = 0
+2024-05-20 16:22:31,370 Training average positive_sample_loss at step 0: 0.442861
+2024-05-20 16:22:35,127 Training average negative_sample_loss at step 0: 1.129327
+2024-05-20 16:22:35,283 Training average loss at step 0: 0.786094
+2024-05-20 16:22:35,346 Evaluating on Valid Dataset...
+2024-05-20 16:26:27,987 Evaluating the model... (0/180016)
+2024-05-20 16:36:10,351 Evaluating the model... (1000/180016)
+2024-05-20 16:44:23,080 Evaluating the model... (2000/180016)
+2024-05-20 16:52:33,947 Evaluating the model... (3000/180016)
+2024-05-20 17:16:28,760 Evaluating the model... (4000/180016)
+2024-05-20 17:25:06,998 Evaluating the model... (5000/180016)
+2024-05-20 17:33:34,519 Evaluating the model... (6000/180016)
+2024-05-20 18:25:45,472 Model: TransE
+2024-05-20 18:25:45,488 Data Path: data/FB15k
+2024-05-20 18:25:45,488 #entity: 45158
+2024-05-20 18:25:45,504 #relation: 24
+2024-05-20 18:25:48,076 #train: 1440125
+2024-05-20 18:25:48,719 #valid: 360032
+2024-05-20 18:25:49,545 #test: 450040
+2024-05-20 18:25:52,538 Model Parameter Configuration:
+2024-05-20 18:25:52,571 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 18:25:52,573 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 18:25:52,578 Parameter entity_embedding: torch.Size([45158, 200]), require_grad = True
+2024-05-20 18:25:52,582 Parameter relation_embedding: torch.Size([24, 200]), require_grad = True
+2024-05-20 18:26:09,787 Randomly Initializing TransE Model...
+2024-05-20 18:26:09,787 Start Training...
+2024-05-20 18:26:09,800 init_step = 0
+2024-05-20 18:26:09,802 batch_size = 1024
+2024-05-20 18:26:09,804 negative_adversarial_sampling = 0
+2024-05-20 18:26:09,807 hidden_dim = 200
+2024-05-20 18:26:09,809 gamma = 12.000000
+2024-05-20 18:26:09,813 negative_adversarial_sampling = False
+2024-05-20 18:26:09,822 learning_rate = 0
+2024-05-20 18:30:11,741 Training average positive_sample_loss at step 0: 0.490210
+2024-05-20 18:30:11,879 Training average negative_sample_loss at step 0: 1.055713
+2024-05-20 18:30:11,942 Training average loss at step 0: 0.772961
+2024-05-20 18:30:12,020 Evaluating on Valid Dataset...
+2024-05-20 18:33:52,670 Evaluating the model... (0/180016)
+2024-05-20 18:43:02,016 Evaluating the model... (1000/180016)
+2024-05-20 18:51:49,199 Evaluating the model... (2000/180016)
+2024-05-20 19:00:21,633 Evaluating the model... (3000/180016)
+2024-05-20 19:09:41,241 Evaluating the model... (4000/180016)
+2024-05-20 19:18:13,567 Evaluating the model... (5000/180016)
+2024-05-20 19:26:51,963 Evaluating the model... (6000/180016)
+2024-05-20 19:36:18,838 Evaluating the model... (7000/180016)
+2024-05-20 19:45:43,634 Evaluating the model... (8000/180016)
+2024-05-20 19:55:38,419 Evaluating the model... (9000/180016)
+2024-05-20 20:05:31,148 Evaluating the model... (10000/180016)
+2024-05-20 20:14:39,408 Evaluating the model... (11000/180016)
+2024-05-20 20:23:27,453 Evaluating the model... (12000/180016)
+2024-05-20 20:32:20,630 Evaluating the model... (13000/180016)
+2024-05-20 20:40:59,960 Evaluating the model... (14000/180016)
+2024-05-20 21:09:44,959 Evaluating the model... (15000/180016)
+2024-05-20 21:19:14,253 Evaluating the model... (16000/180016)
+2024-05-20 21:28:05,538 Evaluating the model... (17000/180016)
+2024-05-20 21:37:51,855 Evaluating the model... (18000/180016)
+2024-05-20 21:47:14,556 Evaluating the model... (19000/180016)
+2024-05-20 21:56:33,576 Evaluating the model... (20000/180016)
+2024-05-20 21:59:23,011 Model: TransE
+2024-05-20 21:59:23,013 Data Path: data/FB15k
+2024-05-20 21:59:23,013 #entity: 45158
+2024-05-20 21:59:23,020 #relation: 24
+2024-05-20 21:59:28,371 #train: 1440125
+2024-05-20 21:59:29,738 #valid: 360032
+2024-05-20 21:59:31,375 #test: 450040
+2024-05-20 21:59:32,066 Model Parameter Configuration:
+2024-05-20 21:59:32,089 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-20 21:59:32,098 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-20 21:59:32,102 Parameter entity_embedding: torch.Size([45158, 200]), require_grad = True
+2024-05-20 21:59:32,104 Parameter relation_embedding: torch.Size([24, 200]), require_grad = True
+2024-05-20 22:00:18,132 Randomly Initializing TransE Model...
+2024-05-20 22:00:18,132 Start Training...
+2024-05-20 22:00:18,139 init_step = 0
+2024-05-20 22:00:18,142 batch_size = 1024
+2024-05-20 22:00:18,144 negative_adversarial_sampling = 0
+2024-05-20 22:00:18,170 hidden_dim = 200
+2024-05-20 22:00:18,213 gamma = 12.000000
+2024-05-20 22:00:18,224 negative_adversarial_sampling = False
+2024-05-20 22:00:18,224 learning_rate = 0
+2024-05-20 22:07:23,234 Training average positive_sample_loss at step 0: 0.484164
+2024-05-20 22:07:24,094 Training average negative_sample_loss at step 0: 1.077719
+2024-05-20 22:07:24,112 Training average loss at step 0: 0.780942
+2024-05-20 22:07:24,164 Evaluating on Valid Dataset...
+2024-05-20 22:07:52,088 Evaluating the model... (21000/180016)
+2024-05-20 22:15:09,821 Evaluating the model... (0/180016)
+2024-05-20 22:18:55,159 Evaluating the model... (22000/180016)
+2024-05-20 22:30:51,079 Evaluating the model... (1000/180016)
+2024-05-20 22:34:09,995 Evaluating the model... (23000/180016)
+2024-05-20 22:44:50,701 Evaluating the model... (2000/180016)
+2024-05-20 22:48:56,707 Evaluating the model... (24000/180016)
+2024-05-20 22:59:24,418 Evaluating the model... (3000/180016)
+2024-05-20 23:02:57,397 Evaluating the model... (25000/180016)
+2024-05-20 23:12:51,110 Evaluating the model... (4000/180016)
+2024-05-20 23:16:51,358 Evaluating the model... (26000/180016)
+2024-05-20 23:26:44,928 Evaluating the model... (5000/180016)
+2024-05-20 23:30:29,596 Evaluating the model... (27000/180016)
+2024-05-20 23:41:49,674 Evaluating the model... (6000/180016)
+2024-05-20 23:46:12,915 Evaluating the model... (28000/180016)
+2024-05-20 23:57:13,617 Evaluating the model... (7000/180016)
+2024-05-21 00:01:30,952 Evaluating the model... (29000/180016)
+2024-05-21 00:12:56,932 Evaluating the model... (8000/180016)
+2024-05-21 00:16:55,242 Evaluating the model... (30000/180016)
+2024-05-21 00:26:41,852 Evaluating the model... (9000/180016)
+2024-05-21 00:30:06,826 Evaluating the model... (31000/180016)
+2024-05-21 00:39:25,430 Evaluating the model... (10000/180016)
+2024-05-21 00:42:38,238 Evaluating the model... (32000/180016)
+2024-05-21 00:51:55,645 Evaluating the model... (11000/180016)
+2024-05-21 00:55:07,279 Evaluating the model... (33000/180016)
+2024-05-21 01:04:22,842 Evaluating the model... (12000/180016)
+2024-05-21 01:07:35,153 Evaluating the model... (34000/180016)
+2024-05-21 01:16:50,712 Evaluating the model... (13000/180016)
+2024-05-21 01:20:05,351 Evaluating the model... (35000/180016)
+2024-05-21 01:29:28,661 Evaluating the model... (14000/180016)
+2024-05-21 01:32:41,821 Evaluating the model... (36000/180016)
+2024-05-21 01:41:58,515 Evaluating the model... (15000/180016)
+2024-05-21 01:45:08,600 Evaluating the model... (37000/180016)
+2024-05-21 01:54:28,437 Evaluating the model... (16000/180016)
+2024-05-21 01:57:40,231 Evaluating the model... (38000/180016)
+2024-05-21 02:07:00,390 Evaluating the model... (17000/180016)
+2024-05-21 02:10:14,011 Evaluating the model... (39000/180016)
+2024-05-21 02:19:35,880 Evaluating the model... (18000/180016)
+2024-05-21 02:22:49,511 Evaluating the model... (40000/180016)
+2024-05-21 02:32:08,966 Evaluating the model... (19000/180016)
+2024-05-21 02:35:27,059 Evaluating the model... (41000/180016)
+2024-05-21 02:44:44,907 Evaluating the model... (20000/180016)
+2024-05-21 02:48:04,829 Evaluating the model... (42000/180016)
+2024-05-21 02:57:22,592 Evaluating the model... (21000/180016)
+2024-05-21 03:00:43,516 Evaluating the model... (43000/180016)
+2024-05-21 03:09:54,871 Evaluating the model... (22000/180016)
+2024-05-21 03:13:16,469 Evaluating the model... (44000/180016)
+2024-05-21 03:22:26,768 Evaluating the model... (23000/180016)
+2024-05-21 03:25:48,249 Evaluating the model... (45000/180016)
+2024-05-21 03:34:53,279 Evaluating the model... (24000/180016)
+2024-05-21 03:38:15,927 Evaluating the model... (46000/180016)
+2024-05-21 03:47:25,652 Evaluating the model... (25000/180016)
+2024-05-21 03:50:52,982 Evaluating the model... (47000/180016)
+2024-05-21 04:00:01,670 Evaluating the model... (26000/180016)
+2024-05-21 04:03:23,288 Evaluating the model... (48000/180016)
+2024-05-21 04:12:36,009 Evaluating the model... (27000/180016)
+2024-05-21 04:15:57,996 Evaluating the model... (49000/180016)
+2024-05-21 04:25:05,731 Evaluating the model... (28000/180016)
+2024-05-21 04:28:31,281 Evaluating the model... (50000/180016)
+2024-05-21 04:37:38,218 Evaluating the model... (29000/180016)
+2024-05-21 04:41:04,382 Evaluating the model... (51000/180016)
+2024-05-21 04:50:10,084 Evaluating the model... (30000/180016)
+2024-05-21 04:53:35,039 Evaluating the model... (52000/180016)
+2024-05-21 05:02:41,818 Evaluating the model... (31000/180016)
+2024-05-21 05:06:08,474 Evaluating the model... (53000/180016)
+2024-05-21 05:15:21,831 Evaluating the model... (32000/180016)
+2024-05-21 05:18:46,572 Evaluating the model... (54000/180016)
+2024-05-21 05:27:59,680 Evaluating the model... (33000/180016)
+2024-05-21 05:31:18,881 Evaluating the model... (55000/180016)
+2024-05-21 05:40:34,062 Evaluating the model... (34000/180016)
+2024-05-21 05:43:54,065 Evaluating the model... (56000/180016)
+2024-05-21 05:53:09,292 Evaluating the model... (35000/180016)
+2024-05-21 05:56:31,277 Evaluating the model... (57000/180016)
+2024-05-21 06:05:46,142 Evaluating the model... (36000/180016)
+2024-05-21 06:09:03,655 Evaluating the model... (58000/180016)
+2024-05-21 06:18:19,404 Evaluating the model... (37000/180016)
+2024-05-21 06:21:39,093 Evaluating the model... (59000/180016)
+2024-05-21 06:30:48,506 Evaluating the model... (38000/180016)
+2024-05-21 06:34:11,860 Evaluating the model... (60000/180016)
+2024-05-21 06:43:19,115 Evaluating the model... (39000/180016)
+2024-05-21 06:46:39,478 Evaluating the model... (61000/180016)
+2024-05-21 06:55:49,837 Evaluating the model... (40000/180016)
+2024-05-21 06:59:10,413 Evaluating the model... (62000/180016)
+2024-05-21 07:08:14,747 Evaluating the model... (41000/180016)
+2024-05-21 07:11:37,460 Evaluating the model... (63000/180016)
+2024-05-21 07:20:49,053 Evaluating the model... (42000/180016)
+2024-05-21 07:24:08,897 Evaluating the model... (64000/180016)
+2024-05-21 07:33:23,586 Evaluating the model... (43000/180016)
+2024-05-21 07:36:41,332 Evaluating the model... (65000/180016)
+2024-05-21 07:45:51,234 Evaluating the model... (44000/180016)
+2024-05-21 07:49:12,958 Evaluating the model... (66000/180016)
+2024-05-21 07:58:20,890 Evaluating the model... (45000/180016)
+2024-05-21 08:01:42,954 Evaluating the model... (67000/180016)
+2024-05-21 08:10:50,161 Evaluating the model... (46000/180016)
+2024-05-21 08:14:13,165 Evaluating the model... (68000/180016)
+2024-05-21 08:23:19,964 Evaluating the model... (47000/180016)
+2024-05-21 08:26:43,282 Evaluating the model... (69000/180016)
+2024-05-21 08:35:58,449 Evaluating the model... (48000/180016)
+2024-05-21 08:39:23,921 Evaluating the model... (70000/180016)
+2024-05-21 08:48:34,558 Evaluating the model... (49000/180016)
+2024-05-21 08:51:59,032 Evaluating the model... (71000/180016)
+2024-05-21 09:01:12,705 Evaluating the model... (50000/180016)
+2024-05-21 09:04:35,571 Evaluating the model... (72000/180016)
+2024-05-21 09:13:41,825 Evaluating the model... (51000/180016)
+2024-05-21 09:17:11,539 Evaluating the model... (73000/180016)
+2024-05-21 09:26:19,530 Evaluating the model... (52000/180016)
+2024-05-21 09:29:47,851 Evaluating the model... (74000/180016)
+2024-05-21 09:38:50,913 Evaluating the model... (53000/180016)
+2024-05-21 09:42:16,365 Evaluating the model... (75000/180016)
+2024-05-21 09:51:18,605 Evaluating the model... (54000/180016)
+2024-05-21 09:54:47,490 Evaluating the model... (76000/180016)
+2024-05-21 10:07:43,544 Evaluating the model... (77000/180016)
+2024-05-21 10:17:45,215 Model: TransE
+2024-05-21 10:17:45,217 Data Path: data/FB15k
+2024-05-21 10:17:45,219 #entity: 45158
+2024-05-21 10:17:45,220 #relation: 24
+2024-05-21 10:17:48,563 #train: 1440125
+2024-05-21 10:17:49,432 #valid: 360032
+2024-05-21 10:17:50,366 #test: 450040
+2024-05-21 10:17:50,868 Model Parameter Configuration:
+2024-05-21 10:17:50,868 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-21 10:17:50,868 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-21 10:17:50,868 Parameter entity_embedding: torch.Size([45158, 200]), require_grad = True
+2024-05-21 10:17:50,868 Parameter relation_embedding: torch.Size([24, 200]), require_grad = True
+2024-05-21 10:18:10,588 Randomly Initializing TransE Model...
+2024-05-21 10:18:10,588 Start Training...
+2024-05-21 10:18:10,588 init_step = 0
+2024-05-21 10:18:10,604 batch_size = 1024
+2024-05-21 10:18:10,604 negative_adversarial_sampling = 0
+2024-05-21 10:18:10,604 hidden_dim = 200
+2024-05-21 10:18:10,613 gamma = 12.000000
+2024-05-21 10:18:10,613 negative_adversarial_sampling = False
+2024-05-21 10:18:10,626 learning_rate = 0
+2024-05-21 10:20:07,232 Training average positive_sample_loss at step 0: 0.468790
+2024-05-21 10:20:07,239 Training average negative_sample_loss at step 0: 1.086440
+2024-05-21 10:20:07,239 Training average loss at step 0: 0.777615
+2024-05-21 10:20:07,256 Evaluating on Valid Dataset...
+2024-05-21 10:22:56,968 Evaluating the model... (0/180016)
+2024-05-21 10:32:22,238 Evaluating the model... (1000/180016)
+2024-05-21 10:41:23,612 Evaluating the model... (2000/180016)
+2024-05-21 10:50:13,322 Evaluating the model... (3000/180016)
+2024-05-21 10:59:14,264 Evaluating the model... (4000/180016)
+2024-05-21 11:07:56,907 Evaluating the model... (5000/180016)
+2024-05-21 11:17:02,371 Evaluating the model... (6000/180016)
+2024-05-21 11:25:39,148 Evaluating the model... (7000/180016)
+2024-05-21 11:34:13,172 Evaluating the model... (8000/180016)
+2024-05-21 11:43:58,781 Evaluating the model... (9000/180016)
+2024-05-21 11:53:52,457 Evaluating the model... (10000/180016)
+2024-05-21 12:03:26,084 Evaluating the model... (11000/180016)
+2024-05-21 12:13:47,775 Evaluating the model... (12000/180016)
+2024-05-21 12:23:30,701 Evaluating the model... (13000/180016)
+2024-05-21 12:34:35,871 Evaluating the model... (14000/180016)
+2024-05-21 12:44:09,551 Evaluating the model... (15000/180016)
+2024-05-21 12:53:09,228 Evaluating the model... (16000/180016)
+2024-05-21 13:01:47,712 Evaluating the model... (17000/180016)
+2024-05-21 13:10:53,240 Evaluating the model... (18000/180016)
+2024-05-21 13:19:28,750 Evaluating the model... (19000/180016)
+2024-05-21 13:30:17,024 Evaluating the model... (20000/180016)
+2024-05-21 13:39:18,986 Evaluating the model... (21000/180016)
+2024-05-21 13:47:28,629 Evaluating the model... (22000/180016)
+2024-05-21 13:55:33,137 Evaluating the model... (23000/180016)
+2024-05-21 14:03:29,285 Evaluating the model... (24000/180016)
+2024-05-21 14:24:10,727 Evaluating the model... (25000/180016)
+2024-05-21 14:32:06,168 Evaluating the model... (26000/180016)
+2024-05-21 14:40:09,568 Evaluating the model... (27000/180016)
+2024-05-21 14:48:01,240 Evaluating the model... (28000/180016)
+2024-05-21 14:59:26,923 Evaluating the model... (29000/180016)
+2024-05-21 15:11:04,765 Evaluating the model... (30000/180016)
+2024-05-21 15:20:05,667 Evaluating the model... (31000/180016)
+2024-05-21 15:28:57,588 Evaluating the model... (32000/180016)
+2024-05-21 15:37:28,756 Evaluating the model... (33000/180016)
+2024-05-21 15:46:13,527 Evaluating the model... (34000/180016)
+2024-05-21 15:54:34,352 Evaluating the model... (35000/180016)
+2024-05-21 16:02:57,033 Evaluating the model... (36000/180016)
+2024-05-21 16:11:58,523 Evaluating the model... (37000/180016)
+2024-05-21 16:20:24,093 Evaluating the model... (38000/180016)
+2024-05-21 16:28:47,623 Evaluating the model... (39000/180016)
+2024-05-21 16:37:20,834 Evaluating the model... (40000/180016)
+2024-05-21 16:45:42,930 Evaluating the model... (41000/180016)
+2024-05-21 16:54:04,498 Evaluating the model... (42000/180016)
+2024-05-21 17:02:24,838 Evaluating the model... (43000/180016)
+2024-05-21 17:10:32,919 Evaluating the model... (44000/180016)
+2024-05-21 17:18:57,381 Evaluating the model... (45000/180016)
+2024-05-21 17:26:51,667 Evaluating the model... (46000/180016)
+2024-05-21 17:34:54,299 Evaluating the model... (47000/180016)
+2024-05-21 17:53:29,429 Evaluating the model... (48000/180016)
+2024-05-21 18:01:45,436 Evaluating the model... (49000/180016)
+2024-05-21 18:09:44,641 Evaluating the model... (50000/180016)
+2024-05-21 18:19:38,699 Evaluating the model... (51000/180016)
+2024-05-21 18:28:23,129 Evaluating the model... (52000/180016)
+2024-05-21 18:37:22,680 Evaluating the model... (53000/180016)
+2024-05-21 18:47:15,924 Evaluating the model... (54000/180016)
+2024-05-21 18:56:02,549 Evaluating the model... (55000/180016)
+2024-05-21 19:04:38,997 Evaluating the model... (56000/180016)
+2024-05-21 19:12:56,692 Evaluating the model... (57000/180016)
+2024-05-21 19:22:29,119 Evaluating the model... (58000/180016)
+2024-05-21 19:31:15,682 Evaluating the model... (59000/180016)
+2024-05-21 19:41:38,870 Evaluating the model... (60000/180016)
+2024-05-21 19:51:04,147 Evaluating the model... (61000/180016)
+2024-05-21 19:59:07,752 Evaluating the model... (62000/180016)
+2024-05-21 20:07:10,981 Evaluating the model... (63000/180016)
+2024-05-21 20:18:05,906 Evaluating the model... (64000/180016)
+2024-05-21 20:27:21,609 Evaluating the model... (65000/180016)
+2024-05-21 20:36:25,313 Evaluating the model... (66000/180016)
+2024-05-21 20:45:52,107 Evaluating the model... (67000/180016)
+2024-05-21 20:55:24,826 Evaluating the model... (68000/180016)
+2024-05-21 21:05:29,717 Evaluating the model... (69000/180016)
+2024-05-21 21:13:59,568 Evaluating the model... (70000/180016)
+2024-05-21 21:24:32,955 Evaluating the model... (71000/180016)
+2024-05-21 21:34:50,923 Evaluating the model... (72000/180016)
+2024-05-21 21:44:40,697 Evaluating the model... (73000/180016)
+2024-05-21 21:53:26,103 Evaluating the model... (74000/180016)
+2024-05-21 22:01:30,486 Evaluating the model... (75000/180016)
+2024-05-21 22:09:30,607 Evaluating the model... (76000/180016)
+2024-05-21 22:17:34,389 Evaluating the model... (77000/180016)
+2024-05-22 21:17:19,293 Evaluating the model... (78000/180016)
+2024-05-22 21:28:24,817 Evaluating the model... (79000/180016)
+2024-05-22 21:39:42,767 Evaluating the model... (80000/180016)
+2024-05-22 21:48:39,119 Evaluating the model... (81000/180016)
+2024-05-22 21:58:43,792 Evaluating the model... (82000/180016)
+2024-05-22 22:06:58,058 Evaluating the model... (83000/180016)
+2024-05-22 23:04:52,584 Evaluating the model... (84000/180016)
+2024-05-22 23:15:14,433 Evaluating the model... (85000/180016)
+2024-05-23 09:50:31,772 Evaluating the model... (86000/180016)
+2024-05-23 10:00:29,704 Evaluating the model... (87000/180016)
+2024-05-23 10:09:08,903 Evaluating the model... (88000/180016)
+2024-05-23 16:04:24,172 Evaluating the model... (89000/180016)
+2024-05-23 16:12:28,071 Evaluating the model... (90000/180016)
+2024-05-23 16:23:23,751 Evaluating the model... (91000/180016)
+2024-05-23 16:32:07,579 Evaluating the model... (92000/180016)
+2024-05-23 16:40:47,957 Evaluating the model... (93000/180016)
+2024-05-23 16:49:28,539 Evaluating the model... (94000/180016)
+2024-05-23 17:00:18,256 Evaluating the model... (95000/180016)
+2024-05-23 17:09:22,840 Evaluating the model... (96000/180016)
+2024-05-23 17:18:10,894 Evaluating the model... (97000/180016)
+2024-05-23 17:27:06,253 Evaluating the model... (98000/180016)
+2024-05-23 17:35:57,080 Evaluating the model... (99000/180016)
+2024-05-23 17:44:34,921 Evaluating the model... (100000/180016)
+2024-05-23 17:53:10,770 Evaluating the model... (101000/180016)
+2024-05-23 18:01:57,347 Evaluating the model... (102000/180016)
+2024-05-23 18:10:40,861 Evaluating the model... (103000/180016)
+2024-05-23 18:19:21,840 Evaluating the model... (104000/180016)
+2024-05-23 18:28:05,592 Evaluating the model... (105000/180016)
+2024-05-24 00:42:36,121 Evaluating the model... (106000/180016)
+2024-05-24 00:55:53,535 Evaluating the model... (107000/180016)
+2024-05-24 01:08:53,219 Evaluating the model... (108000/180016)
+2024-05-24 01:20:59,983 Evaluating the model... (109000/180016)
+2024-05-24 01:30:03,638 Evaluating the model... (110000/180016)
+2024-05-24 01:38:45,226 Evaluating the model... (111000/180016)
+2024-05-24 12:11:15,773 Evaluating the model... (112000/180016)
+2024-05-30 20:16:50,672 Model: TransE
+2024-05-30 20:16:50,704 Data Path: data/FB15k
+2024-05-30 20:16:50,704 #entity: 45158
+2024-05-30 20:16:50,704 #relation: 24
+2024-05-30 20:16:53,673 #train: 1440125
+2024-05-30 20:16:54,536 #valid: 360032
+2024-05-30 20:16:55,526 #test: 450040
+2024-05-30 20:16:56,530 Model Parameter Configuration:
+2024-05-30 20:16:56,566 Parameter gamma: torch.Size([1]), require_grad = False
+2024-05-30 20:16:56,566 Parameter embedding_range: torch.Size([1]), require_grad = False
+2024-05-30 20:16:56,577 Parameter entity_embedding: torch.Size([45158, 200]), require_grad = True
+2024-05-30 20:16:56,577 Parameter relation_embedding: torch.Size([24, 200]), require_grad = True
+2024-05-30 20:17:34,246 Randomly Initializing TransE Model...
+2024-05-30 20:17:34,246 Start Training...
+2024-05-30 20:17:34,264 init_step = 0
+2024-05-30 20:17:34,264 batch_size = 1024
+2024-05-30 20:17:34,272 negative_adversarial_sampling = 0
+2024-05-30 20:17:34,284 hidden_dim = 200
+2024-05-30 20:17:34,284 gamma = 12.000000
+2024-05-30 20:17:34,316 negative_adversarial_sampling = False
+2024-05-30 20:17:34,339 learning_rate = 0
+2024-05-30 21:06:02,360 No such comm target registered: jupyter.widget.control
+2024-05-30 21:06:02,360 No such comm: 6fd36b74-6e08-4996-a2cb-d6431bf4d4e5
+2024-05-30 21:40:29,075 No such comm target registered: jupyter.widget.control
+2024-05-30 21:40:29,085 No such comm: 049d4862-f69e-4924-a804-74b4e62e5c1b
+2024-05-30 23:22:51,461 No such comm target registered: jupyter.widget.control
+2024-05-30 23:22:51,566 No such comm: b95a0ca3-38db-4898-85a1-dc690f01b86b
+2024-05-31 11:47:24,357 No such comm target registered: jupyter.widget.control
+2024-05-31 11:47:24,525 No such comm: 7a2e1bea-d90f-40ba-a5de-16f35b993864
+2024-05-31 16:23:37,476 No such comm target registered: jupyter.widget.control
+2024-05-31 16:23:37,686 No such comm: 62e3a147-ca88-41f7-ba4c-c3f916d07e4f
+2024-06-01 12:25:29,396 No such comm target registered: jupyter.widget.control
+2024-06-01 12:25:29,966 No such comm: 34a07352-1936-400f-966a-e54a9612cce8
+2024-06-01 17:45:19,294 No such comm target registered: jupyter.widget.control
+2024-06-01 17:45:19,372 No such comm: a64e40b1-184f-4ebb-ac5c-7112c0c1ecca
+2024-06-01 18:08:21,214 No such comm target registered: jupyter.widget.control
+2024-06-01 18:08:21,384 No such comm: 9ecb5e20-e8dd-415c-8963-f2bcfb40b84c
+2024-06-01 19:02:13,058 No such comm target registered: jupyter.widget.control
+2024-06-01 19:02:13,068 No such comm: c4aa3e9d-953a-46aa-ba58-d49db9183f32
+2024-06-02 00:00:31,009 No such comm target registered: jupyter.widget.control
+2024-06-02 00:00:31,267 No such comm: f68e1e63-beda-47c3-bd79-5e4f8ce399f7
+2024-06-02 01:03:56,568 No such comm target registered: jupyter.widget.control
+2024-06-02 01:03:56,576 No such comm: 64b6285c-bba5-480d-8055-8b0e27396291
