@@ -25,8 +25,5 @@ This project is still under construction. Contributions and feedback are welcome
 
 ## Contact
 
-For any inquiries or collaboration opportunities, please reach out via [Your Contact Information].
+For any inquiries or collaboration opportunities, please reach out via www.linkedin.com/in/desmond-akabetso-nde
 
----
-
-© 2024 [Your Name/Your Organization]. All rights reserved.
