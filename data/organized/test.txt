@@ -1,0 +1,1125 @@
+Gene::56155	GpBP	Biological Process::GO:0031330
+Anatomy::UBERON:0002081	AeG	Gene::6890
+Anatomy::UBERON:0001893	AdG	Gene::51303
+Anatomy::UBERON:0000029	AeG	Gene::5216
+Anatomy::UBERON:0000007	AeG	Gene::51701
+Compound::DB00230	CcSE	Side Effect::C0151579
+Gene::3606	GpBP	Biological Process::GO:0032725
+Gene::51143	GpBP	Biological Process::GO:1902099
+Gene::8342	GpPW	Pathway::PC7_3278
+Gene::221264	GpBP	Biological Process::GO:0019693
+Anatomy::UBERON:0000995	AdG	Gene::330
+Anatomy::UBERON:0002185	AeG	Gene::7020
+Gene::84319	GiG	Gene::284996
+Gene::7352	GpPW	Pathway::PC7_5514
+Gene::338376	GcG	Gene::115196
+Anatomy::UBERON:0002369	AeG	Gene::9747
+Gene::3159	Gr>G	Gene::7020
+Gene::1452	GiG	Gene::143425
+Compound::DB01267	CcSE	Side Effect::C0314719
+Gene::164091	Gr>G	Gene::55033
+Gene::11343	Gr>G	Gene::771
+Gene::84206	GpBP	Biological Process::GO:0051050
+Gene::8502	GpCC	Cellular Component::GO:0060076
+Gene::595	Gr>G	Gene::1066
+Gene::55773	GiG	Gene::285782
+Compound::DB00962	CcSE	Side Effect::C0002170
+Gene::5361	GpBP	Biological Process::GO:0051270
+Gene::8672	GpBP	Biological Process::GO:0016032
+Gene::51103	GiG	Gene::374291
+Anatomy::UBERON:0000029	AdG	Gene::166336
+Gene::8555	GpMF	Molecular Function::GO:0042578
+Gene::4000	GiG	Gene::28988
+Anatomy::UBERON:0002390	AeG	Gene::83734
+Anatomy::UBERON:0001004	AeG	Gene::84100
+Anatomy::UBERON:0003126	AeG	Gene::6491
+Anatomy::UBERON:0000998	AeG	Gene::4215
+Anatomy::UBERON:0002046	AdG	Gene::114134
+Anatomy::UBERON:0001891	AeG	Gene::56937
+Anatomy::UBERON:0000007	AeG	Gene::51157
+Anatomy::UBERON:0000948	AeG	Gene::800
+Compound::DB01177	CuG	Gene::116985
+Anatomy::UBERON:0001013	AeG	Gene::4678
+Anatomy::UBERON:0001013	AeG	Gene::55751
+Compound::DB00460	CcSE	Side Effect::C0013595
+Compound::DB00757	CcSE	Side Effect::C0033774
+Anatomy::UBERON:0000992	AeG	Gene::10138
+Gene::5742	GpBP	Biological Process::GO:0046888
+Gene::5723	Gr>G	Gene::55052
+Gene::5605	GpBP	Biological Process::GO:0030323
+Anatomy::UBERON:0001296	AuG	Gene::1307
+Anatomy::UBERON:0001044	AdG	Gene::948
+Compound::DB01280	CcSE	Side Effect::C0013404
+Gene::10298	Gr>G	Gene::4792
+Anatomy::UBERON:0000002	AeG	Gene::54521
+Gene::1497	GpBP	Biological Process::GO:0090659
+Anatomy::UBERON:0002371	AuG	Gene::57610
+Anatomy::UBERON:0000970	AeG	Gene::26031
+Gene::2263	GpBP	Biological Process::GO:0007369
+Anatomy::UBERON:0002367	AeG	Gene::5878
+Gene::29899	GpBP	Biological Process::GO:0051661
+Gene::8607	GpBP	Biological Process::GO:0032392
+Gene::4283	GpBP	Biological Process::GO:0090280
+Anatomy::UBERON:0002390	AeG	Gene::79966
+Gene::5029	Gr>G	Gene::670
+Gene::55970	GpCC	Cellular Component::GO:0019898
+Compound::DB00814	CcSE	Side Effect::C0036974
+Anatomy::UBERON:0001235	AuG	Gene::79639
+Disease::DOID:1612	DdG	Gene::1327
+Gene::64714	GpBP	Biological Process::GO:0034975
+Gene::24141	GpCC	Cellular Component::GO:0031256
+Anatomy::UBERON:0001007	AeG	Gene::79668
+Anatomy::UBERON:0001264	AeG	Gene::6421
+Anatomy::UBERON:0002037	AeG	Gene::9141
+Disease::DOID:3312	DaG	Gene::1813
+Gene::808	GiG	Gene::84033
+Gene::482	GpPW	Pathway::PC7_2035
+Anatomy::UBERON:0000473	AeG	Gene::84179
+Gene::1654	GpCC	Cellular Component::GO:0031966
+Compound::DB01030	CuG	Gene::393
+Gene::27153	GcG	Gene::55665
+Gene::9585	GpBP	Biological Process::GO:1903829
+Gene::84196	GpBP	Biological Process::GO:0019941
+Gene::9817	GpBP	Biological Process::GO:1903649
+Gene::64215	Gr>G	Gene::22933
+Gene::122481	GpMF	Molecular Function::GO:0004127
+Anatomy::UBERON:0001896	AeG	Gene::83660
+Gene::4983	GpBP	Biological Process::GO:0072583
+Anatomy::UBERON:0000997	AeG	Gene::1797
+Anatomy::UBERON:0001235	AeG	Gene::63875
+Anatomy::UBERON:0000955	AdG	Gene::7494
+Gene::390162	GpPW	Pathway::PC7_7439
+Gene::6256	GpCC	Cellular Component::GO:0044798
+Gene::7511	Gr>G	Gene::1958
+Gene::54957	GpCC	Cellular Component::GO:0097526
+Compound::DB01608	CcSE	Side Effect::C0003811
+Anatomy::UBERON:0000474	AeG	Gene::1445
+Gene::5699	GpBP	Biological Process::GO:0051603
+Anatomy::UBERON:0002107	AeG	Gene::3837
+Anatomy::UBERON:0000997	AuG	Gene::7167
+Gene::113235	GpMF	Molecular Function::GO:0015075
+Compound::DB08974	CuG	Gene::5715
+Gene::1009	Gr>G	Gene::55837
+Anatomy::UBERON:0002046	AeG	Gene::7813
+Gene::10671	Gr>G	Gene::54442
+Anatomy::UBERON:0000029	AeG	Gene::11169
+Gene::2271	GiG	Gene::5564
+Anatomy::UBERON:0002046	AdG	Gene::128077
+Compound::DB00305	CdG	Gene::9787
+Anatomy::UBERON:0002369	AdG	Gene::441525
+Anatomy::UBERON:0000970	AeG	Gene::3099
+Gene::54617	GpBP	Biological Process::GO:0007067
+Disease::DOID:2994	DaG	Gene::346653
+Anatomy::UBERON:0000057	AuG	Gene::1112
+Gene::10654	GpBP	Biological Process::GO:0006066
+Anatomy::UBERON:0000996	AeG	Gene::92259
+Anatomy::UBERON:0004535	AeG	Gene::11080
+Compound::DB00396	CcSE	Side Effect::C0004096
+Compound::DB00497	CcSE	Side Effect::C0232292
+Compound::DB08881	CcSE	Side Effect::C0031117
+Anatomy::UBERON:0000948	AeG	Gene::4017
+Anatomy::UBERON:0000178	AeG	Gene::2551
+Anatomy::UBERON:0000007	AuG	Gene::112885
+Gene::55223	Gr>G	Gene::10478
+Anatomy::UBERON:0000178	AeG	Gene::55311
+Anatomy::UBERON:0002369	AdG	Gene::170690
+Gene::51071	Gr>G	Gene::54733
+Gene::353132	GiG	Gene::386681
+Gene::9806	GpBP	Biological Process::GO:0019800
+Anatomy::UBERON:0000992	AeG	Gene::29980
+Compound::DB06716	CcSE	Side Effect::C0030554
+Anatomy::UBERON:0000033	AeG	Gene::152185
+Anatomy::UBERON:0000922	AeG	Gene::10009
+Gene::4058	GpBP	Biological Process::GO:0050767
+Gene::7534	Gr>G	Gene::23326
+Anatomy::UBERON:0000043	AeG	Gene::51434
+Gene::50617	GpBP	Biological Process::GO:0009124
+Gene::51343	GcG	Gene::157285
+Gene::6093	Gr>G	Gene::64167
+Compound::DB00347	CcSE	Side Effect::C2979982
+Gene::54623	Gr>G	Gene::10541
+Compound::DB00712	CcSE	Side Effect::C0022573
+Anatomy::UBERON:0002368	AeG	Gene::8323
+Gene::5604	GpCC	Cellular Component::GO:0005815
+Gene::7251	GpBP	Biological Process::GO:0007050
+Gene::3662	Gr>G	Gene::8061
+Disease::DOID:14330	DdG	Gene::10099
+Gene::6723	Gr>G	Gene::80830
+Gene::7316	GiG	Gene::57055
+Gene::4522	GpBP	Biological Process::GO:0048562
+Anatomy::UBERON:0002081	AdG	Gene::6919
+Gene::3562	GpMF	Molecular Function::GO:0008083
+Gene::27252	GpCC	Cellular Component::GO:0031984
+Anatomy::UBERON:0000998	AeG	Gene::9094
+Gene::4609	GiG	Gene::5784
+Compound::DB01104	CcSE	Side Effect::C1145628
+Gene::1476	GiG	Gene::2035
+Anatomy::UBERON:0001013	AeG	Gene::1798
+Anatomy::UBERON:0000997	AeG	Gene::81831
+Gene::388585	Gr>G	Gene::6839
+Anatomy::UBERON:0000474	AeG	Gene::4664
+Gene::2771	Gr>G	Gene::11344
+Gene::10209	GpBP	Biological Process::GO:0007549
+Anatomy::UBERON:0000029	AeG	Gene::124446
+Anatomy::UBERON:0002107	AeG	Gene::56998
+Gene::6607	GiG	Gene::28511
+Gene::3126	GpBP	Biological Process::GO:0002768
+Gene::28514	GpBP	Biological Process::GO:0072014
+Gene::7311	GiG	Gene::27343
+Anatomy::UBERON:0001744	AeG	Gene::85369
+Compound::DB00313	CcSE	Side Effect::C0002886
+Anatomy::UBERON:0002369	AeG	Gene::152185
+Compound::DB00489	CcSE	Side Effect::C0234238
+Gene::136	GpBP	Biological Process::GO:0030826
+Gene::51119	GpBP	Biological Process::GO:0001833
+Gene::2132	Gr>G	Gene::2335
+Gene::23350	GiG	Gene::55588
+Anatomy::UBERON:0001008	AeG	Gene::29907
+Gene::22871	GpBP	Biological Process::GO:0050803
+Gene::996	GiG	Gene::4088
+Gene::26205	Gr>G	Gene::6919
+Anatomy::UBERON:0002081	AeG	Gene::5095
+Gene::57180	GpBP	Biological Process::GO:0090066
+Gene::55030	GcG	Gene::644
+Gene::135	GpPW	Pathway::PC7_4043
+Anatomy::UBERON:0000033	AeG	Gene::8027
+Gene::5253	Gr>G	Gene::10112
+Gene::9353	GpBP	Biological Process::GO:0021836
+Gene::1909	GpBP	Biological Process::GO:0045761
+Gene::4686	GiG	Gene::10987
+Compound::DB01099	CcSE	Side Effect::C0518015
+Anatomy::UBERON:0000029	AeG	Gene::3554
+Gene::30061	GpBP	Biological Process::GO:0055076
+Anatomy::UBERON:0002048	AeG	Gene::55818
+Anatomy::UBERON:0001890	AeG	Gene::114299
+Anatomy::UBERON:0000007	AdG	Gene::337867
+Gene::1019	GpMF	Molecular Function::GO:0019887
+Anatomy::UBERON:0002450	AeG	Gene::343450
+Compound::DB00915	CcSE	Side Effect::C0178298
+Anatomy::UBERON:0001004	AeG	Gene::7572
+Anatomy::UBERON:0001013	AeG	Gene::142891
+Anatomy::UBERON:0000955	AeG	Gene::5550
+Anatomy::UBERON:0000473	AeG	Gene::26061
+Anatomy::UBERON:0002030	AeG	Gene::375484
+Anatomy::UBERON:0000033	AeG	Gene::26257
+Anatomy::UBERON:0002082	AuG	Gene::781
+Anatomy::UBERON:0003126	AeG	Gene::4223
+Gene::6352	GpMF	Molecular Function::GO:0019887
+Gene::1453	GpMF	Molecular Function::GO:0004672
+Gene::29984	GpMF	Molecular Function::GO:0005525
+Gene::2932	GiG	Gene::6622
+Compound::DB00295	CcSE	Side Effect::C0016382
+Gene::9978	GpBP	Biological Process::GO:0071897
+Gene::6129	GpBP	Biological Process::GO:0043043
+Anatomy::UBERON:0001017	AeG	Gene::221002
+Anatomy::UBERON:0002369	AeG	Gene::7410
+Gene::3654	Gr>G	Gene::64429
+Gene::3162	GpMF	Molecular Function::GO:0016788
+Gene::79142	Gr>G	Gene::8624
+Anatomy::UBERON:0000033	AeG	Gene::10910
+Anatomy::UBERON:0001295	AeG	Gene::10131
+Gene::6778	Gr>G	Gene::3066
+Anatomy::UBERON:0002371	AeG	Gene::6596
+Gene::8994	GpBP	Biological Process::GO:0034248
+Compound::DB00675	CrC	Compound::DB00882
+Gene::10109	Gr>G	Gene::7018
+Gene::1109	GpMF	Molecular Function::GO:0016655
+Anatomy::UBERON:0000043	AeG	Gene::2029
+Gene::51176	GpMF	Molecular Function::GO:0042393
+Anatomy::UBERON:0001891	AeG	Gene::26277
+Gene::15	GpMF	Molecular Function::GO:0004060
+Gene::2172	Gr>G	Gene::831
+Compound::DB08912	CuG	Gene::1777
+Gene::7728	Gr>G	Gene::5092
+Gene::55970	GpPW	Pathway::PC7_3992
+Anatomy::UBERON:0000997	AeG	Gene::5885
+Compound::DB00445	CuG	Gene::10058
+Anatomy::UBERON:0000057	AeG	Gene::22891
+Gene::471	GpBP	Biological Process::GO:0030900
+Gene::4001	GpBP	Biological Process::GO:0006921
+Anatomy::UBERON:0000992	AeG	Gene::1278
+Anatomy::UBERON:0001135	AeG	Gene::9332
+Anatomy::UBERON:0001911	AeG	Gene::55187
+Compound::DB01175	CcSE	Side Effect::C0235639
+Compound::DB00523	CcSE	Side Effect::C0035410
+Compound::DB01394	CbG	Gene::203068
+Anatomy::UBERON:0000178	AeG	Gene::1462
+Gene::10681	Gr>G	Gene::55699
+Anatomy::UBERON:0001893	AeG	Gene::2555
+Gene::6722	GpBP	Biological Process::GO:0009743
+Anatomy::UBERON:0002369	AeG	Gene::79078
+Gene::27012	GcG	Gene::4692
+Gene::9668	GcG	Gene::57532
+Gene::3741	GpMF	Molecular Function::GO:0046873
+Anatomy::UBERON:0001235	AdG	Gene::10152
+Gene::84259	GpMF	Molecular Function::GO:0032182
+Gene::246	GpCC	Cellular Component::GO:0009898
+Anatomy::UBERON:0002107	AeG	Gene::51066
+Gene::64750	Gr>G	Gene::7105
+Gene::3065	GpBP	Biological Process::GO:0043069
+Gene::5747	GpBP	Biological Process::GO:0022408
+Gene::4851	GpBP	Biological Process::GO:0000122
+Gene::51043	GpBP	Biological Process::GO:0006366
+Anatomy::UBERON:0002384	AeG	Gene::2182
+Anatomy::UBERON:0001016	AeG	Gene::6391
+Disease::DOID:1826	DaG	Gene::9021
+Anatomy::UBERON:0003126	AeG	Gene::4908
+Gene::127623	GpPW	Pathway::PC7_4043
+Gene::2944	Gr>G	Gene::1978
+Anatomy::UBERON:0000992	AeG	Gene::80143
+Gene::10399	GpBP	Biological Process::GO:0048598
+Gene::5594	GpPW	Pathway::PC7_3436
+Gene::66002	GpBP	Biological Process::GO:0003095
+Anatomy::UBERON:0001891	AeG	Gene::22856
+Gene::79334	GpMF	Molecular Function::GO:0004930
+Gene::593	Gr>G	Gene::10589
+Anatomy::UBERON:0002082	AeG	Gene::1760
+Gene::6732	GiG	Gene::7307
+Anatomy::UBERON:0000955	AeG	Gene::5411
+Anatomy::UBERON:0000473	AeG	Gene::81614
+Gene::7771	GpPW	Pathway::PC7_4116
+Gene::929	GpBP	Biological Process::GO:0010952
+Gene::2692	GpBP	Biological Process::GO:0030104
+Anatomy::UBERON:0002367	AeG	Gene::5745
+Anatomy::UBERON:0002390	AeG	Gene::29914
+Gene::143471	GpPW	Pathway::PC7_5322
+Gene::64216	GpBP	Biological Process::GO:0006352
+Compound::DB01095	CcSE	Side Effect::C0234215
+Gene::339761	GpMF	Molecular Function::GO:0005506
+Gene::3434	GpBP	Biological Process::GO:0071360
+Disease::DOID:10941	DlA	Anatomy::UBERON:0001638
+Compound::DB01168	CcSE	Side Effect::C0023380
+Compound::DB00225	CcSE	Side Effect::C0220870
+Gene::23161	Gr>G	Gene::84617
+Gene::5279	GpMF	Molecular Function::GO:0017176
+Gene::387763	GcG	Gene::64766
+Gene::1314	GiG	Gene::6152
+Gene::2273	GiG	Gene::27295
+Gene::8850	Gr>G	Gene::1063
+Gene::2762	Gr>G	Gene::5909
+Gene::92609	GpMF	Molecular Function::GO:0016788
+Gene::957	GpBP	Biological Process::GO:0009141
+Compound::DB00509	CdG	Gene::29083
+Anatomy::UBERON:0002081	AdG	Gene::25840
+Gene::8844	Gr>G	Gene::5836
+Gene::627	GpBP	Biological Process::GO:0035295
+Gene::7466	Gr>G	Gene::25825
+Compound::DB00570	CdG	Gene::2593
+Anatomy::UBERON:0002107	AeG	Gene::55425
+Gene::8517	GiG	Gene::51256
+Compound::DB00188	CdG	Gene::79081
+Anatomy::UBERON:0002073	AeG	Gene::54544
+Gene::63892	Gr>G	Gene::9926
+Gene::10874	GpPW	Pathway::PC7_3993
+Anatomy::UBERON:0002368	AeG	Gene::6821
+Gene::2322	GpBP	Biological Process::GO:0071396
+Gene::3237	GpBP	Biological Process::GO:0032330
+Gene::5576	GpBP	Biological Process::GO:0033762
+Gene::1495	Gr>G	Gene::114884
+Gene::4175	GiG	Gene::6629
+Gene::5207	GpBP	Biological Process::GO:0014070
+Anatomy::UBERON:0000955	AeG	Gene::55871
+Anatomy::UBERON:0000955	AdG	Gene::29851
+Gene::861	GiG	Gene::6938
+Anatomy::UBERON:0001891	AuG	Gene::10085
+Anatomy::UBERON:0002185	AeG	Gene::2017
+Gene::7103	Gr>G	Gene::9270
+Anatomy::UBERON:0000029	AdG	Gene::5542
+Gene::9217	GpBP	Biological Process::GO:0044403
+Gene::9261	GpBP	Biological Process::GO:0042035
+Disease::DOID:7693	DdG	Gene::84167
+Anatomy::UBERON:0002030	AuG	Gene::6649
+Anatomy::UBERON:0001017	AeG	Gene::6305
+Gene::1230	GpBP	Biological Process::GO:0055074
+Gene::7139	GpBP	Biological Process::GO:0032781
+Anatomy::UBERON:0001896	AeG	Gene::29923
+Gene::2475	GpBP	Biological Process::GO:0051224
+Gene::2833	GpBP	Biological Process::GO:0034767
+Gene::6121	GpBP	Biological Process::GO:0032869
+Anatomy::UBERON:0000029	AeG	Gene::5660
+Anatomy::UBERON:0000966	AeG	Gene::1964
+Gene::2885	GpPW	Pathway::PC7_3419
+Gene::2885	GpMF	Molecular Function::GO:0070851
+Gene::85442	Gr>G	Gene::1052
+Compound::DB00749	CcSE	Side Effect::C0030193
+Gene::5934	GpBP	Biological Process::GO:0006325
+Gene::5551	GpCC	Cellular Component::GO:0005764
+Gene::6949	GcG	Gene::56126
+Gene::5021	GpCC	Cellular Component::GO:0005911
+Gene::6846	GpBP	Biological Process::GO:1903034
+Anatomy::UBERON:0002037	AdG	Gene::3226
+Gene::6048	GiG	Gene::387522
+Anatomy::UBERON:0002107	AuG	Gene::207063
+Anatomy::UBERON:0002081	AeG	Gene::84978
+Anatomy::UBERON:0002037	AuG	Gene::57677
+Anatomy::UBERON:0002082	AeG	Gene::6727
+Gene::3207	GpBP	Biological Process::GO:0072498
+Gene::1734	GpBP	Biological Process::GO:0006417
+Gene::2668	GpBP	Biological Process::GO:0007411
+Gene::27152	GpBP	Biological Process::GO:0043588
+Gene::6940	GiG	Gene::9759
+Compound::DB00188	CcSE	Side Effect::C0014591
+Anatomy::UBERON:0001008	AeG	Gene::6533
+Gene::5605	GpMF	Molecular Function::GO:0097110
+Gene::5690	GpBP	Biological Process::GO:0034612
+Compound::DB00918	CcSE	Side Effect::C0687713
+Compound::DB00014	CcSE	Side Effect::C0233472
+Gene::7466	GpBP	Biological Process::GO:0055065
+Gene::1019	Gr>G	Gene::51495
+Gene::3911	GpBP	Biological Process::GO:0001823
+Gene::4939	GpBP	Biological Process::GO:1901361
+Anatomy::UBERON:0000178	AeG	Gene::23635
+Gene::29098	GpCC	Cellular Component::GO:0098590
+Anatomy::UBERON:0000955	AeG	Gene::219743
+Gene::197322	GpBP	Biological Process::GO:0044272
+Gene::1109	GpMF	Molecular Function::GO:0015125
+Anatomy::UBERON:0001891	AeG	Gene::6046
+Anatomy::UBERON:0002390	AeG	Gene::130074
+Gene::863	GiG	Gene::3066
+Anatomy::UBERON:0002046	AeG	Gene::57647
+Anatomy::UBERON:0002037	AeG	Gene::3773
+Gene::3313	GpBP	Biological Process::GO:0043069
+Anatomy::UBERON:0001891	AeG	Gene::221035
+Gene::7884	GiG	Gene::84967
+Gene::55650	GpBP	Biological Process::GO:0009247
+Anatomy::UBERON:0001004	AeG	Gene::6643
+Gene::5328	Gr>G	Gene::291
+Gene::114792	GpMF	Molecular Function::GO:0019787
+Anatomy::UBERON:0000007	AdG	Gene::2319
+Gene::10943	GpBP	Biological Process::GO:0006338
+Anatomy::UBERON:0001044	AuG	Gene::4629
+Anatomy::UBERON:0000955	AdG	Gene::483
+Anatomy::UBERON:0000955	AuG	Gene::57578
+Gene::1293	GiG	Gene::3678
+Gene::9053	GpCC	Cellular Component::GO:0098590
+Gene::1840	GiG	Gene::11065
+Gene::4087	Gr>G	Gene::6813
+Gene::22953	GpBP	Biological Process::GO:0032844
+Anatomy::UBERON:0001017	AeG	Gene::196441
+Gene::348	GpBP	Biological Process::GO:0051353
+Gene::6336	GpBP	Biological Process::GO:0001508
+Gene::163688	Gr>G	Gene::960
+Anatomy::UBERON:0001013	AeG	Gene::7480
+Gene::3064	GiG	Gene::7802
+Anatomy::UBERON:0000970	AeG	Gene::8370
+Gene::5649	GpBP	Biological Process::GO:0051090
+Anatomy::UBERON:0002369	AuG	Gene::9923
+Compound::DB00496	CcSE	Side Effect::C3665347
+Gene::8471	GcG	Gene::126695
+Gene::30812	GpBP	Biological Process::GO:0008406
+Gene::6461	Gr>G	Gene::22908
+Anatomy::UBERON:0001225	AeG	Gene::9527
+Gene::8703	Gr>G	Gene::701
+Anatomy::UBERON:0002367	AeG	Gene::9615
+Gene::338917	GpBP	Biological Process::GO:0007601
+Gene::7786	GpCC	Cellular Component::GO:0043005
+Gene::120796	GpPW	Pathway::PC7_7439
+Anatomy::UBERON:0000970	AeG	Gene::307
+Compound::DB01204	CcSE	Side Effect::C0015376
+Anatomy::UBERON:0002107	AeG	Gene::3955
+Compound::DB00972	CcSE	Side Effect::C0015395
+Gene::2562	GpMF	Molecular Function::GO:0022891
+Gene::3202	GpBP	Biological Process::GO:0045646
+Gene::5609	GpBP	Biological Process::GO:0006970
+Gene::6189	GpBP	Biological Process::GO:0006575
+Anatomy::UBERON:0000996	AuG	Gene::64866
+Anatomy::UBERON:0002450	AeG	Gene::4312
+Gene::57144	GpPW	Pathway::PC7_3084
+Anatomy::UBERON:0002082	AdG	Gene::9771
+Gene::120892	GpBP	Biological Process::GO:0010738
+Anatomy::UBERON:0001231	AeG	Gene::6993
+Gene::79877	GpBP	Biological Process::GO:0034033
+Gene::23546	GpCC	Cellular Component::GO:0099501
+Gene::7316	GiG	Gene::58511
+Gene::613	GpBP	Biological Process::GO:0017157
+Gene::10888	GpBP	Biological Process::GO:0007218
+Anatomy::UBERON:0000996	AeG	Gene::1543
+Anatomy::UBERON:0001296	AeG	Gene::115290
+Compound::DB01128	CcSE	Side Effect::C0007114
+Gene::2161	Gr>G	Gene::8974
+Gene::1374	GpBP	Biological Process::GO:0005996
+Compound::DB00445	CcSE	Side Effect::C0027339
+Gene::4643	GpMF	Molecular Function::GO:0035091
+Compound::DB00180	CcSE	Side Effect::C0039070
+Anatomy::UBERON:0000002	AuG	Gene::6091
+Gene::10559	Gr>G	Gene::9324
+Anatomy::UBERON:0002046	AuG	Gene::9572
+Gene::1432	GpBP	Biological Process::GO:0007005
+Gene::8754	GpBP	Biological Process::GO:0071396
+Anatomy::UBERON:0000474	AeG	Gene::389874
+Gene::8639	Gr>G	Gene::10362
+Anatomy::UBERON:0000992	AeG	Gene::93587
+Anatomy::UBERON:0001013	AdG	Gene::5894
+Anatomy::UBERON:0002450	AeG	Gene::553115
+Disease::DOID:418	DdG	Gene::121268
+Anatomy::UBERON:0000473	AuG	Gene::2800
+Gene::6715	GpBP	Biological Process::GO:0048545
+Gene::10971	GpCC	Cellular Component::GO:0012506
+Gene::185	GpBP	Biological Process::GO:0003072
+Gene::5645	GpBP	Biological Process::GO:0001558
+Gene::397	GpPW	Pathway::WP314_r80438
+Anatomy::UBERON:0001264	AeG	Gene::55577
+Gene::344	GpBP	Biological Process::GO:0009314
+Gene::1063	GpCC	Cellular Component::GO:0097539
+Anatomy::UBERON:0000964	AeG	Gene::3569
+Compound::DB00876	CcSE	Side Effect::C0042029
+Gene::23118	GpBP	Biological Process::GO:0034134
+Anatomy::UBERON:0002450	AeG	Gene::5686
+Anatomy::UBERON:0002107	AeG	Gene::85395
+Gene::59272	GpBP	Biological Process::GO:0008217
+Gene::735	GpBP	Biological Process::GO:0019835
+Gene::8729	GpBP	Biological Process::GO:1902591
+Anatomy::UBERON:0001235	AdG	Gene::343990
+Compound::DB00344	CcSE	Side Effect::C2584688
+Gene::1111	GpBP	Biological Process::GO:0000724
+Gene::5582	Gr>G	Gene::5547
+Gene::6626	Gr>G	Gene::1396
+Anatomy::UBERON:0002030	AeG	Gene::4666
+Gene::5706	GpBP	Biological Process::GO:0000209
+Anatomy::UBERON:0000966	AeG	Gene::56884
+Gene::4335	Gr>G	Gene::5831
+Anatomy::UBERON:0002030	AeG	Gene::150223
+Anatomy::UBERON:0002046	AeG	Gene::23608
+Gene::2744	Gr>G	Gene::16
+Anatomy::UBERON:0000996	AeG	Gene::5423
+Gene::3597	Gr>G	Gene::10320
+Gene::51547	GiG	Gene::55299
+Gene::123745	GpBP	Biological Process::GO:0006575
+Anatomy::UBERON:0002369	AeG	Gene::79674
+Gene::84446	GpCC	Cellular Component::GO:0005815
+Gene::5692	GpBP	Biological Process::GO:1903322
+Gene::553	GpBP	Biological Process::GO:0035150
+Gene::6500	GpPW	Pathway::PC7_2582
+Anatomy::UBERON:0000029	AeG	Gene::23558
+Gene::2547	GiG	Gene::5826
+Anatomy::UBERON:0000948	AeG	Gene::8666
+Gene::11000	GpBP	Biological Process::GO:0019752
+Gene::2002	GcG	Gene::59353
+Anatomy::UBERON:0000178	AeG	Gene::9610
+Gene::29766	GpBP	Biological Process::GO:0031333
+Gene::2539	GpMF	Molecular Function::GO:0005536
+Anatomy::UBERON:0001044	AeG	Gene::56919
+Anatomy::UBERON:0000473	AeG	Gene::1968
+Gene::25788	GpBP	Biological Process::GO:0032392
+Gene::56301	GpBP	Biological Process::GO:0042942
+Gene::51523	GcG	Gene::121340
+Compound::DB00601	CcSE	Side Effect::C0151603
+Anatomy::UBERON:0002046	AeG	Gene::16
+Gene::51690	GiG	Gene::51691
+Gene::79872	GcG	Gene::29799
+Gene::5587	GiG	Gene::7316
+Compound::DB00286	CcSE	Side Effect::C0006277
+Anatomy::UBERON:0002030	AdG	Gene::57722
+Gene::60493	GpCC	Cellular Component::GO:0030529
+Gene::54941	Gr>G	Gene::64781
+Gene::5580	GpPW	Pathway::PC7_7444
+Gene::23204	GiG	Gene::51324
+Disease::DOID:2531	DaG	Gene::142
+Gene::5291	GpBP	Biological Process::GO:0006873
+Gene::2264	GpPW	Pathway::PC7_4749
+Anatomy::UBERON:0001225	AdG	Gene::23671
+Gene::341152	GcG	Gene::338442
+Gene::506	GpBP	Biological Process::GO:0007005
+Anatomy::UBERON:0000043	AeG	Gene::23731
+Gene::64979	GpBP	Biological Process::GO:0006414
+Compound::DB00310	CcSE	Side Effect::C0011991
+Gene::1412	GpMF	Molecular Function::GO:0005212
+Gene::5693	GpPW	Pathway::PC7_6815
+Disease::DOID:1909	DaG	Gene::3815
+Anatomy::UBERON:0000007	AeG	Gene::115572
+Gene::51375	Gr>G	Gene::64429
+Gene::3655	GpPW	Pathway::WP306_r80308
+Gene::5950	GpBP	Biological Process::GO:0048562
+Compound::DB00882	CcSE	Side Effect::C0032994
+Gene::23566	GpBP	Biological Process::GO:0051050
+Gene::117247	GpMF	Molecular Function::GO:0015171
+Anatomy::UBERON:0003126	AuG	Gene::7873
+Gene::4850	GpBP	Biological Process::GO:0051865
+Gene::23322	GpBP	Biological Process::GO:0032990
+Gene::399473	GcG	Gene::6506
+Disease::DOID:2841	DaG	Gene::6775
+Gene::597	GiG	Gene::5366
+Gene::5142	GpBP	Biological Process::GO:0071216
+Gene::5906	GpBP	Biological Process::GO:0030855
+Compound::DB00822	CuG	Gene::3589
+Gene::3916	GpBP	Biological Process::GO:0031341
+Anatomy::UBERON:0002046	AeG	Gene::6915
+Gene::1315	GpBP	Biological Process::GO:0006886
+Anatomy::UBERON:0000955	AuG	Gene::23594
+Gene::155	GpBP	Biological Process::GO:0030817
+Gene::819	GpBP	Biological Process::GO:0038127
+Gene::23304	GpBP	Biological Process::GO:0051276
+Gene::51284	Gr>G	Gene::1301
+Anatomy::UBERON:0000991	AeG	Gene::223117
+Anatomy::UBERON:0000996	AeG	Gene::57526
+Anatomy::UBERON:0000002	AeG	Gene::9679
+Anatomy::UBERON:0000029	AdG	Gene::126520
+Anatomy::UBERON:0002107	AdG	Gene::647135
+Compound::DB06268	CcSE	Side Effect::C0027769
+Anatomy::UBERON:0000007	AeG	Gene::9049
+Gene::9611	GpBP	Biological Process::GO:0090311
+Anatomy::UBERON:0000948	AuG	Gene::26577
+Disease::DOID:12849	DaG	Gene::23191
+Gene::54512	GpPW	Pathway::PC7_12075
+Gene::23263	GpBP	Biological Process::GO:0051056
+Gene::2152	GpPW	Pathway::WP558_r79680
+Anatomy::UBERON:0001016	AeG	Gene::800
+Anatomy::UBERON:0001017	AeG	Gene::4245
+Anatomy::UBERON:0000006	AeG	Gene::55341
+Gene::4153	GpBP	Biological Process::GO:0030100
+Gene::79699	GpBP	Biological Process::GO:0032446
+Gene::54888	GpBP	Biological Process::GO:0032259
+Gene::1723	GpBP	Biological Process::GO:0009112
+Gene::22921	Gr>G	Gene::23326
+Anatomy::UBERON:0002097	AeG	Gene::5879
+Gene::10576	GiG	Gene::135138
+Anatomy::UBERON:0000992	AeG	Gene::10319
+Gene::7357	Gr>G	Gene::3385
+Anatomy::UBERON:0001744	AeG	Gene::5771
+Gene::8842	GpBP	Biological Process::GO:0090183
+Gene::1017	GpPW	Pathway::PC7_2829
+Anatomy::UBERON:0000955	AuG	Gene::84879
+Anatomy::UBERON:0001296	AeG	Gene::9858
+Anatomy::UBERON:0002081	AeG	Gene::79724
+Gene::8437	GpCC	Cellular Component::GO:0098562
+Gene::5692	GpBP	Biological Process::GO:0031331
+Gene::9488	Gr>G	Gene::23139
+Gene::25	GpBP	Biological Process::GO:1903320
+Anatomy::UBERON:0002368	AeG	Gene::4259
+Gene::2626	GpBP	Biological Process::GO:0051146
+Anatomy::UBERON:0001896	AuG	Gene::79966
+Anatomy::UBERON:0002384	AeG	Gene::91687
+Anatomy::UBERON:0002369	AeG	Gene::5976
+Gene::3688	GpMF	Molecular Function::GO:0002020
+Anatomy::UBERON:0001891	AeG	Gene::400954
+Gene::4137	GpMF	Molecular Function::GO:0005200
+Gene::3741	GpBP	Biological Process::GO:0051481
+Gene::51022	GpMF	Molecular Function::GO:0030613
+Anatomy::UBERON:0000992	AeG	Gene::5794
+Gene::5925	GiG	Gene::7112
+Anatomy::UBERON:0000998	AeG	Gene::1213
+Anatomy::UBERON:0002037	AdG	Gene::145814
+Gene::5515	GpBP	Biological Process::GO:0051348
+Anatomy::UBERON:0002081	AuG	Gene::54995
+Gene::26277	GpBP	Biological Process::GO:0032204
+Gene::5557	GpBP	Biological Process::GO:0044770
+Anatomy::UBERON:0001295	AuG	Gene::55035
+Anatomy::UBERON:0000998	AeG	Gene::203069
+Gene::4780	Gr>G	Gene::54540
+Compound::DB00882	CcSE	Side Effect::C0241633
+Anatomy::UBERON:0001016	AeG	Gene::7089
+Anatomy::UBERON:0002037	AeG	Gene::23380
+Anatomy::UBERON:0001296	AdG	Gene::79090
+Gene::3294	GpBP	Biological Process::GO:0032526
+Gene::11145	GpPW	Pathway::PC7_1561
+Gene::3037	GpBP	Biological Process::GO:0042044
+Gene::1329	Gr>G	Gene::2109
+Anatomy::UBERON:0000006	AeG	Gene::11009
+Anatomy::UBERON:0001013	AeG	Gene::80762
+Anatomy::UBERON:0002390	AeG	Gene::115265
+Anatomy::UBERON:0000955	AeG	Gene::140807
+Anatomy::UBERON:0002081	AuG	Gene::27063
+Gene::3628	GpBP	Biological Process::GO:0044262
+Gene::3747	GpCC	Cellular Component::GO:0016324
+Anatomy::UBERON:0000473	AuG	Gene::4603
+Gene::29082	Gr>G	Gene::3956
+Gene::135935	GpMF	Molecular Function::GO:0000982
+Anatomy::UBERON:0001004	AeG	Gene::64093
+Compound::DB00858	CrC	Compound::DB00621
+Gene::7133	GpBP	Biological Process::GO:0006974
+Anatomy::UBERON:0002113	AeG	Gene::224
+Gene::4923	Gr>G	Gene::2697
+Anatomy::UBERON:0001013	AeG	Gene::9129
+Gene::6324	GpCC	Cellular Component::GO:0001518
+Gene::3134	GpCC	Cellular Component::GO:0030133
+Compound::DB01041	CdG	Gene::9093
+Anatomy::UBERON:0000966	AeG	Gene::254048
+Gene::1649	GcG	Gene::100170841
+Gene::23210	GpBP	Biological Process::GO:0098602
+Gene::153	GpBP	Biological Process::GO:0001996
+Anatomy::UBERON:0000474	AeG	Gene::161145
+Compound::DB00468	CcSE	Side Effect::C0235378
+Gene::1108	Gr>G	Gene::4072
+Gene::8408	Gr>G	Gene::23406
+Gene::9270	GpBP	Biological Process::GO:0051894
+Anatomy::UBERON:0000178	AeG	Gene::3516
+Gene::25794	GcG	Gene::2641
+Anatomy::UBERON:0002367	AeG	Gene::645974
+Compound::DB01365	CdG	Gene::1738
+Anatomy::UBERON:0001295	AeG	Gene::114905
+Compound::DB01020	CcSE	Side Effect::C0002871
+Anatomy::UBERON:0000473	AeG	Gene::144363
+Compound::DB00745	CcSE	Side Effect::C0041969
+Gene::9491	GpMF	Molecular Function::GO:0061134
+Anatomy::UBERON:0001225	AdG	Gene::85449
+Gene::13	GpMF	Molecular Function::GO:0016788
+Anatomy::UBERON:0000992	AeG	Gene::57453
+Gene::7534	GpBP	Biological Process::GO:1904951
+Gene::7837	GpMF	Molecular Function::GO:0048019
+Gene::8764	Gr>G	Gene::994
+Gene::357	GpBP	Biological Process::GO:0051129
+Gene::4176	GiG	Gene::5347
+Anatomy::UBERON:0000006	AeG	Gene::7032
+Gene::1457	GiG	Gene::26010
+Anatomy::UBERON:0001296	AdG	Gene::2705
+Gene::55294	GpCC	Cellular Component::GO:0019005
+Anatomy::UBERON:0000029	AeG	Gene::58500
+Gene::57539	GpBP	Biological Process::GO:0044782
+Gene::259173	GpBP	Biological Process::GO:0046578
+Anatomy::UBERON:0000473	AeG	Gene::10776
+Gene::26053	GcG	Gene::6861
+Gene::146760	Gr>G	Gene::10130
+Anatomy::UBERON:0002082	AeG	Gene::60682
+Compound::DB00625	CcSE	Side Effect::C0520573
+Gene::375567	GpBP	Biological Process::GO:0010810
+Anatomy::UBERON:0002371	AdG	Gene::6448
+Gene::2664	Gr>G	Gene::8140
+Anatomy::UBERON:0000043	AeG	Gene::10621
+Compound::DB00834	CcSE	Side Effect::C0020517
+Gene::64960	GpBP	Biological Process::GO:0043603
+Anatomy::UBERON:0002367	AeG	Gene::120
+Gene::6881	GpBP	Biological Process::GO:0006473
+Anatomy::UBERON:0003126	AeG	Gene::10921
+Anatomy::UBERON:0002107	AeG	Gene::55743
+Anatomy::UBERON:0002369	AdG	Gene::3557
+Compound::DB00583	CcSE	Side Effect::C0546817
+Anatomy::UBERON:0001675	AeG	Gene::55753
+Anatomy::UBERON:0002097	AeG	Gene::5580
+Gene::613	GpBP	Biological Process::GO:0050776
+Compound::DB00445	CdG	Gene::7705
+Gene::6368	GpBP	Biological Process::GO:0071346
+Compound::DB01029	CcSE	Side Effect::C0085580
+Gene::10411	GpBP	Biological Process::GO:0071407
+Gene::488	GpMF	Molecular Function::GO:0022890
+Anatomy::UBERON:0002367	AeG	Gene::374875
+Anatomy::UBERON:0001135	AdG	Gene::8925
+Gene::5108	GpBP	Biological Process::GO:0044782
+Gene::847	GpBP	Biological Process::GO:0015980
+Gene::246213	GpBP	Biological Process::GO:0060322
+Compound::DB08877	CuG	Gene::10915
+Gene::25966	Gr>G	Gene::5699
+Compound::DB00182	CcSE	Side Effect::C0277884
+Compound::DB00450	CcSE	Side Effect::C0015371
+Gene::2775	GiG	Gene::4924
+Gene::5050	Gr>G	Gene::54442
+Gene::81567	GpBP	Biological Process::GO:0061024
+Gene::54949	GpBP	Biological Process::GO:0010719
+Gene::9935	GpMF	Molecular Function::GO:0000977
+Disease::DOID:2394	DaG	Gene::668
+Gene::1600	GpBP	Biological Process::GO:1902532
+Gene::4825	GpBP	Biological Process::GO:0030858
+Gene::2101	GpPW	Pathway::PC7_5989
+Anatomy::UBERON:0000991	AeG	Gene::1043
+Compound::DB00518	CcSE	Side Effect::C0040034
+Gene::8658	GpBP	Biological Process::GO:0034182
+Gene::2870	GpBP	Biological Process::GO:0034766
+Compound::DB00472	CcSE	Side Effect::C0151702
+Gene::6794	Gr>G	Gene::3853
+Anatomy::UBERON:0001008	AeG	Gene::55421
+Gene::1647	GiG	Gene::146059
+Anatomy::UBERON:0002082	AdG	Gene::124583
+Gene::356	Gr>G	Gene::7298
+Gene::79902	Gr>G	Gene::23386
+Gene::3932	GpPW	Pathway::PC7_3884
+Gene::55243	GpBP	Biological Process::GO:0032273
+Gene::2720	GpBP	Biological Process::GO:0005996
+Anatomy::UBERON:0000948	AeG	Gene::257397
+Gene::805	GiG	Gene::10454
+Anatomy::UBERON:0000995	AeG	Gene::57718
+Gene::55837	Gr>G	Gene::23612
+Gene::6727	Gr>G	Gene::10617
+Compound::DB00928	CcSE	Side Effect::C0041912
+Gene::8365	GpPW	Pathway::PC7_7490
+Gene::1642	GpCC	Cellular Component::GO:0080008
+Gene::2767	GiG	Gene::7852
+Gene::9150	GpCC	Cellular Component::GO:0061695
+Gene::183	GpBP	Biological Process::GO:0051146
+Gene::2247	GpBP	Biological Process::GO:0072507
+Gene::5664	GpBP	Biological Process::GO:0055082
+Gene::11015	GcG	Gene::6262
+Gene::6223	GpBP	Biological Process::GO:0022613
+Gene::801	GpBP	Biological Process::GO:0035306
+Gene::5516	GpPW	Pathway::PC7_7484
+Anatomy::UBERON:0002030	AeG	Gene::84532
+Anatomy::UBERON:0001013	AeG	Gene::55786
+Disease::DOID:1909	DuG	Gene::10980
+Gene::1385	GpBP	Biological Process::GO:0044403
+Anatomy::UBERON:0002367	AeG	Gene::28964
+Gene::9903	GpBP	Biological Process::GO:0051301
+Gene::51478	GpBP	Biological Process::GO:1901615
+Anatomy::UBERON:0000948	AuG	Gene::92667
+Gene::285753	GpMF	Molecular Function::GO:0043015
+Gene::57571	GpBP	Biological Process::GO:0006518
+Gene::7625	Gr>G	Gene::11157
+Gene::84894	GpBP	Biological Process::GO:0010721
+Anatomy::UBERON:0000002	AdG	Gene::6750
+Gene::4217	Gr>G	Gene::9915
+Gene::2147	GiG	Gene::8574
+Gene::2950	GpBP	Biological Process::GO:0060759
+Gene::79027	GcG	Gene::23334
+Gene::5080	GpBP	Biological Process::GO:0009611
+Gene::150356	GpMF	Molecular Function::GO:0032403
+Gene::6422	GpBP	Biological Process::GO:0008406
+Compound::DB00727	CcSE	Side Effect::C0030554
+Gene::5901	Gr>G	Gene::596
+Gene::63931	GpCC	Cellular Component::GO:0044391
+Compound::DB00982	CcSE	Side Effect::C0013922
+Gene::5597	GpBP	Biological Process::GO:0000165
+Gene::95	Gr>G	Gene::10969
+Anatomy::UBERON:0001893	AeG	Gene::375449
+Anatomy::UBERON:0000474	AeG	Gene::158131
+Gene::27165	GpBP	Biological Process::GO:0006865
+Anatomy::UBERON:0001675	AdG	Gene::81616
+Gene::2146	GpBP	Biological Process::GO:0001934
+Anatomy::UBERON:0000029	AeG	Gene::124044
+Anatomy::UBERON:0002390	AeG	Gene::944
+Gene::23480	GpBP	Biological Process::GO:0061024
+Gene::6331	GpMF	Molecular Function::GO:0046873
+Anatomy::UBERON:0002240	AeG	Gene::23312
+Compound::DB00523	CcSE	Side Effect::C0037278
+Gene::6469	GpBP	Biological Process::GO:0000904
+Anatomy::UBERON:0002240	AdG	Gene::7059
+Gene::786	GpCC	Cellular Component::GO:1902495
+Gene::396	GiG	Gene::6457
+Anatomy::UBERON:0003126	AeG	Gene::29102
+Gene::6493	Gr>G	Gene::4067
+Gene::3683	GpCC	Cellular Component::GO:0098802
+Gene::57010	GpCC	Cellular Component::GO:0044306
+Gene::1139	GpBP	Biological Process::GO:0030001
+Gene::2528	GpBP	Biological Process::GO:0019320
+Gene::387	Gr>G	Gene::5018
+Anatomy::UBERON:0001225	AdG	Gene::375056
+Gene::9296	Gr>G	Gene::230
+Anatomy::UBERON:0002081	AeG	Gene::130827
+Gene::93426	GiG	Gene::114932
+Gene::2253	GpPW	Pathway::PC7_7445
+Gene::55512	GpBP	Biological Process::GO:0046879
+Anatomy::UBERON:0002046	AuG	Gene::349667
+Anatomy::UBERON:0001007	AeG	Gene::5439
+Gene::55770	GpBP	Biological Process::GO:0006892
+Gene::3661	GpPW	Pathway::PC7_4658
+Anatomy::UBERON:0001675	AeG	Gene::9486
+Gene::90701	GpBP	Biological Process::GO:0006412
+Gene::57678	GpBP	Biological Process::GO:0032940
+Compound::DB01151	CcSE	Side Effect::C0013395
+Gene::59082	GpBP	Biological Process::GO:0030162
+Gene::402135	GpBP	Biological Process::GO:0050906
+Gene::2266	GpBP	Biological Process::GO:0043410
+Anatomy::UBERON:0000970	AeG	Gene::8721
+Gene::1050	GiG	Gene::30812
+Anatomy::UBERON:0002012	AeG	Gene::5739
+Gene::5440	Gr>G	Gene::7534
+Anatomy::UBERON:0000057	AuG	Gene::2030
+Gene::10482	Gr>G	Gene::85236
+Gene::3148	GpCC	Cellular Component::GO:0005730
+Gene::4779	Gr>G	Gene::1396
+Anatomy::UBERON:0003126	AeG	Gene::9529
+Gene::11124	GpBP	Biological Process::GO:1904950
+Gene::84056	GpMF	Molecular Function::GO:0008017
+Anatomy::UBERON:0002107	AeG	Gene::1536
+Anatomy::UBERON:0002450	AeG	Gene::80198
+Gene::57393	GpBP	Biological Process::GO:0044089
+Gene::55810	GpMF	Molecular Function::GO:0001159
+Gene::3726	GpBP	Biological Process::GO:0034097
+Anatomy::UBERON:0003126	AuG	Gene::144406
+Gene::9051	GiG	Gene::26354
+Gene::60370	GiG	Gene::353323
+Gene::8720	Gr>G	Gene::9657
+Gene::5341	GpBP	Biological Process::GO:0006887
+Gene::5591	GpBP	Biological Process::GO:0007389
+Gene::27284	GpBP	Biological Process::GO:0042445
+Gene::84659	GpBP	Biological Process::GO:0019731
+Anatomy::UBERON:0002030	AeG	Gene::58528
+Anatomy::UBERON:0002048	AeG	Gene::26277
+Gene::2444	GiG	Gene::5925
+Gene::5664	GpCC	Cellular Component::GO:0098687
+Anatomy::UBERON:0002369	AeG	Gene::51495
+Anatomy::UBERON:0002367	AeG	Gene::30008
+Anatomy::UBERON:0000995	AeG	Gene::2258
+Gene::1879	Gr>G	Gene::3491
+Compound::DB00515	CcSE	Side Effect::C0036572
+Gene::65083	GcG	Gene::283849
+Anatomy::UBERON:0000474	AeG	Gene::23593
+Anatomy::UBERON:0000057	AdG	Gene::92312
+Anatomy::UBERON:0002107	AdG	Gene::30000
+Anatomy::UBERON:0000007	AeG	Gene::11064
+Anatomy::UBERON:0001017	AeG	Gene::51647
+Gene::4842	GpBP	Biological Process::GO:0046676
+Gene::26137	Gr>G	Gene::5216
+Anatomy::UBERON:0000955	AeG	Gene::1604
+Anatomy::UBERON:0000991	AeG	Gene::9824
+Gene::9953	GpBP	Biological Process::GO:0030166
+Gene::286	GpCC	Cellular Component::GO:0030424
+Gene::4129	Gr>G	Gene::7076
+Anatomy::UBERON:0002048	AeG	Gene::23644
+Gene::1356	Gr>G	Gene::27336
+Compound::DB01104	CdG	Gene::23210
+Gene::667	GpBP	Biological Process::GO:0007017
+Gene::8463	GpBP	Biological Process::GO:0072358
+Gene::147183	GpBP	Biological Process::GO:0007010
+Compound::DB01128	CcSE	Side Effect::C0151547
+Gene::51808	GpCC	Cellular Component::GO:0005813
+Gene::7128	GpBP	Biological Process::GO:0072594
+Gene::6424	GpBP	Biological Process::GO:1902172
+Gene::351	GiG	Gene::5062
+Gene::4041	GpBP	Biological Process::GO:0048729
+Gene::2729	GpBP	Biological Process::GO:2001234
+Anatomy::UBERON:0002082	AeG	Gene::10749
+Gene::148	GpBP	Biological Process::GO:0060452
+Gene::3798	GpMF	Molecular Function::GO:0032403
+Gene::5092	GpMF	Molecular Function::GO:0016829
+Gene::3009	Gr>G	Gene::7128
+Anatomy::UBERON:0002450	AeG	Gene::83986
+Gene::1958	GiG	Gene::5684
+Anatomy::UBERON:0002048	AeG	Gene::10988
+Gene::10245	GpMF	Molecular Function::GO:0015267
+Anatomy::UBERON:0000178	AuG	Gene::9647
+Compound::DB04839	CcSE	Side Effect::C0085631
+Gene::50650	GpBP	Biological Process::GO:0070848
+Gene::23324	GpBP	Biological Process::GO:0044723
+Gene::54921	GiG	Gene::79075
+Anatomy::UBERON:0002185	AeG	Gene::7298
+Gene::5479	Gr>G	Gene::4852
+Anatomy::UBERON:0002030	AuG	Gene::79707
+Anatomy::UBERON:0000473	AuG	Gene::55521
+Compound::DB00481	CcSE	Side Effect::C0009450
+Anatomy::UBERON:0002185	AeG	Gene::57531
+Anatomy::UBERON:0000033	AeG	Gene::11180
+Anatomy::UBERON:0002107	AuG	Gene::50940
+Anatomy::UBERON:0000970	AeG	Gene::342371
+Gene::2880	GpMF	Molecular Function::GO:0016684
+Gene::2043	GpBP	Biological Process::GO:1903034
+Gene::54807	GpMF	Molecular Function::GO:0000975
+Gene::23332	GpBP	Biological Process::GO:0000904
+Gene::6653	GiG	Gene::26270
+Anatomy::UBERON:0002390	AeG	Gene::256380
+Anatomy::UBERON:0001013	AeG	Gene::8406
+Anatomy::UBERON:0000033	AeG	Gene::10467
+Gene::9612	GiG	Gene::80254
+Compound::DB00448	CcSE	Side Effect::C0235431
+Gene::7345	GpMF	Molecular Function::GO:0044389
+Gene::170575	GpBP	Biological Process::GO:0002520
+Anatomy::UBERON:0002107	AuG	Gene::4495
+Gene::51728	GpPW	Pathway::PC7_6813
+Gene::4909	GpCC	Cellular Component::GO:0005788
+Anatomy::UBERON:0002384	AeG	Gene::5093
+Anatomy::UBERON:0002082	AuG	Gene::4256
+Gene::5591	Gr>G	Gene::58986
+Anatomy::UBERON:0000955	AeG	Gene::7728
+Gene::55706	GpBP	Biological Process::GO:0019953
+Gene::351	GiG	Gene::1671
+Anatomy::UBERON:0000948	AdG	Gene::147645
+Anatomy::UBERON:0000178	AdG	Gene::2997
+Anatomy::UBERON:0000007	AeG	Gene::10549
+Gene::1182	GpBP	Biological Process::GO:0007626
+Anatomy::UBERON:0000007	AeG	Gene::113263
+Gene::4151	GpBP	Biological Process::GO:0036293
+Anatomy::UBERON:0002048	AuG	Gene::3621
+Gene::5695	GpBP	Biological Process::GO:0034612
+Gene::140469	GpBP	Biological Process::GO:0046777
+Gene::200958	GpPW	Pathway::PC7_5330
+Compound::DB00445	CdG	Gene::4216
+Anatomy::UBERON:0000970	AeG	Gene::4133
+Gene::23054	GpMF	Molecular Function::GO:0003713
+Gene::5719	GpBP	Biological Process::GO:0010608
+Anatomy::UBERON:0000057	AeG	Gene::7295
+Gene::163688	Gr>G	Gene::200734
+Anatomy::UBERON:0002037	AeG	Gene::63929
+Compound::DB06781	CcSE	Side Effect::C0423281
+Gene::2558	GpBP	Biological Process::GO:0007612
+Gene::9311	GpBP	Biological Process::GO:0009612
+Anatomy::UBERON:0000995	AdG	Gene::5526
+Anatomy::UBERON:0000029	AeG	Gene::79053
+Gene::3635	GpPW	Pathway::PC7_1563
+Anatomy::UBERON:0002390	AeG	Gene::129607
+Gene::23314	Gr>G	Gene::10523
+Anatomy::UBERON:0002107	AeG	Gene::5926
+Gene::3326	GiG	Gene::166793
+Anatomy::UBERON:0001016	AeG	Gene::10763
+Gene::3788	GpBP	Biological Process::GO:0022898
+Compound::DB00299	CdG	Gene::29083
+Gene::4286	GiG	Gene::10213
+Gene::1149	GpBP	Biological Process::GO:0017015
+Gene::164668	Gr>G	Gene::896
+Gene::8312	Gr>G	Gene::9847
+Anatomy::UBERON:0002073	AeG	Gene::5479
+Gene::5682	GpBP	Biological Process::GO:1901652
+Gene::22828	Gr>G	Gene::8520
+Compound::DB00882	CcSE	Side Effect::C0027794
+Gene::25973	GpBP	Biological Process::GO:0019752
+Gene::4698	Gr>G	Gene::29978
+Gene::8667	GiG	Gene::51225
+Gene::1879	GpPW	Pathway::PC7_8328
+Anatomy::UBERON:0002037	AeG	Gene::317649
+Gene::25894	GcG	Gene::25953
+Compound::DB00582	CcSE	Side Effect::C0009763
+Gene::8366	GiG	Gene::9768
+Gene::6095	GpPW	Pathway::PC7_4116
+Gene::10160	GpBP	Biological Process::GO:0051056
+Disease::DOID:2986	DaG	Gene::23530
+Anatomy::UBERON:0000002	AeG	Gene::220988
+Anatomy::UBERON:0001264	AeG	Gene::9459
+Gene::10267	GpBP	Biological Process::GO:0072657
+Gene::8361	GpBP	Biological Process::GO:0006302
+Anatomy::UBERON:0000033	AeG	Gene::2264
+Gene::6752	GpBP	Biological Process::GO:0043434
+Gene::5883	Gr>G	Gene::1635
+Anatomy::UBERON:0002037	AeG	Gene::80034
+Gene::351	GiG	Gene::80777
+Anatomy::UBERON:0002371	AuG	Gene::143187
+Anatomy::UBERON:0001264	AeG	Gene::5697
+Gene::148327	Gr>G	Gene::55033
+Anatomy::UBERON:0002367	AeG	Gene::4946
+Gene::9441	Gr>G	Gene::10202
+Gene::29940	GpBP	Biological Process::GO:0050655
+Anatomy::UBERON:0000992	AeG	Gene::5136
+Anatomy::UBERON:0002384	AeG	Gene::6997
+Compound::DB06701	CcSE	Side Effect::C0311468
+Anatomy::UBERON:0001969	AeG	Gene::3553
+Gene::2266	Gr>G	Gene::6618
+Gene::9146	Gr>G	Gene::23421
+Gene::2523	GpPW	Pathway::WP1423_r79812
+Gene::22949	GpBP	Biological Process::GO:1901568
+Gene::3952	GpBP	Biological Process::GO:0016125
+Gene::4233	GpBP	Biological Process::GO:2001026
+Gene::4034	GiG	Gene::386681
+Gene::6392	Gr>G	Gene::58478
+Anatomy::UBERON:0000992	AeG	Gene::80324
+Gene::4099	GpCC	Cellular Component::GO:0043005
+Anatomy::UBERON:0002369	AeG	Gene::60412
+Disease::DOID:0050741	DdG	Gene::3290
+Gene::154197	Gr>G	Gene::26136
+Gene::351	GiG	Gene::29889
+Gene::5144	GpPW	Pathway::PC7_7439
+Gene::118427	GpBP	Biological Process::GO:0007423
+Anatomy::UBERON:0001007	AeG	Gene::3306
+Gene::10327	Gr>G	Gene::328
+Anatomy::UBERON:0002240	AeG	Gene::112755
+Gene::4087	Gr>G	Gene::6150
+Compound::DB00184	CcSE	Side Effect::C0232849
+Anatomy::UBERON:0001135	AdG	Gene::23312
+Gene::4817	Gr>G	Gene::7866
+Anatomy::UBERON:0001891	AuG	Gene::43
+Gene::983	GpPW	Pathway::PC7_7448
+Anatomy::UBERON:0000007	AuG	Gene::166929
+Gene::2067	Gr>G	Gene::8869
+Gene::10014	GpBP	Biological Process::GO:0051276
+Compound::DB00790	CcSE	Side Effect::C0600142
+Gene::7412	GiG	Gene::23344
+Gene::80325	GpBP	Biological Process::GO:0043604
+Gene::5873	GpCC	Cellular Component::GO:0005929
+Anatomy::UBERON:0000955	AeG	Gene::27
+Anatomy::UBERON:0002081	AeG	Gene::10916
+Anatomy::UBERON:0000473	AeG	Gene::6141
+Compound::DB00396	CbG	Gene::8647
+Gene::5077	GpPW	Pathway::WP2858_r83015
+Anatomy::UBERON:0002037	AeG	Gene::2078
+Gene::6123	GpBP	Biological Process::GO:0000027
+Anatomy::UBERON:0000178	AeG	Gene::2762
+Anatomy::UBERON:0004535	AeG	Gene::10318
+Compound::DB00976	CcSE	Side Effect::C0013182
+Gene::55366	GpBP	Biological Process::GO:0048771
+Anatomy::UBERON:0002037	AeG	Gene::8535
+Gene::55294	GpPW	Pathway::PC7_5783
+Anatomy::UBERON:0002030	AdG	Gene::64397
+Gene::7132	Gr>G	Gene::6672
+Gene::409	GiG	Gene::8971
+Anatomy::UBERON:0000970	AeG	Gene::8871
+Compound::DB00724	CcSE	Side Effect::C0595877
+Anatomy::UBERON:0002046	AeG	Gene::5588
+Anatomy::UBERON:0000966	AeG	Gene::55228
+Gene::30835	GpBP	Biological Process::GO:0051806
+Gene::57662	GpBP	Biological Process::GO:0098609
+Anatomy::UBERON:0002107	AdG	Gene::284207
+Anatomy::UBERON:0002367	AeG	Gene::51257
+Anatomy::UBERON:0002073	AeG	Gene::6414
+Gene::10493	Gr>G	Gene::6117
+Disease::DOID:2596	DlA	Anatomy::UBERON:0000029
+Gene::3753	GpBP	Biological Process::GO:1904063
+Gene::284252	Gr>G	Gene::23670
+Compound::DB00531	CcSE	Side Effect::C0043250
+Gene::317	GpBP	Biological Process::GO:0031667
+Gene::6262	GpBP	Biological Process::GO:0010880
+Anatomy::UBERON:0000996	AeG	Gene::5464
+Disease::DOID:13378	DlA	Anatomy::UBERON:0002165
+Anatomy::UBERON:0000997	AeG	Gene::10922
+Gene::23315	GpBP	Biological Process::GO:0055067
+Anatomy::UBERON:0001893	AeG	Gene::221037
+Gene::2330	GpMF	Molecular Function::GO:0048037
+Gene::8360	GiG	Gene::9759
+Anatomy::UBERON:0002367	AeG	Gene::51454
+Anatomy::UBERON:0002107	AdG	Gene::143379
+Gene::6150	GiG	Gene::55969
+Gene::646817	GpBP	Biological Process::GO:0071824
+Gene::4790	GiG	Gene::5371
+Gene::10544	Gr>G	Gene::5827
+Anatomy::UBERON:0000948	AeG	Gene::8209
+Anatomy::UBERON:0001895	AeG	Gene::85235
+Anatomy::UBERON:0002107	AeG	Gene::203328
+Disease::DOID:332	DdG	Gene::646643
+Anatomy::UBERON:0001295	AeG	Gene::23270
+Anatomy::UBERON:0002369	AeG	Gene::3953
+Gene::3084	GiG	Gene::6628
+Gene::378951	GpBP	Biological Process::GO:0007276
+Gene::3145	GpBP	Biological Process::GO:0071418
+Anatomy::UBERON:0000178	AeG	Gene::6671
+Anatomy::UBERON:0002107	AdG	Gene::57184
+Gene::9655	GpBP	Biological Process::GO:0002827
+Gene::8564	GpBP	Biological Process::GO:0034627
+Gene::9820	GcG	Gene::10044
+Anatomy::UBERON:0002037	AuG	Gene::79870
+Gene::150094	Gr>G	Gene::2886
+Gene::6300	Gr>G	Gene::22796
+Gene::8864	GpBP	Biological Process::GO:0003018
+Anatomy::UBERON:0002107	AuG	Gene::85007
+Anatomy::UBERON:0001831	AeG	Gene::1805
+Compound::DB08906	CcSE	Side Effect::C0015230
+Gene::8741	GpBP	Biological Process::GO:0002822
+Gene::595	GpBP	Biological Process::GO:0033601
+Anatomy::UBERON:0002367	AeG	Gene::79157
+Anatomy::UBERON:0001235	AuG	Gene::51131
+Gene::116986	GpMF	Molecular Function::GO:0030234
+Gene::5523	Gr>G	Gene::85377
+Gene::7227	Gr>G	Gene::10921
+Anatomy::UBERON:0002097	AeG	Gene::5830
+Gene::1811	GiG	Gene::9368
+Anatomy::UBERON:0000029	AeG	Gene::4248
+Compound::DB00833	CcSE	Side Effect::C0042963
+Gene::128308	GpBP	Biological Process::GO:0070125
+Compound::DB08896	CcSE	Side Effect::C0948586
+Anatomy::UBERON:0000007	AuG	Gene::8562
+Compound::DB00641	CuG	Gene::79991
+Gene::5585	Gr>G	Gene::6261
+Gene::5892	GcG	Gene::10894
+Anatomy::UBERON:0001773	AeG	Gene::4653
+Anatomy::UBERON:0000043	AeG	Gene::2354
+Gene::1675	Gr>G	Gene::701
+Gene::7141	GpBP	Biological Process::GO:0006259
+Gene::998	GpBP	Biological Process::GO:0045859
+Anatomy::UBERON:0002082	AdG	Gene::4048
+Gene::2554	GpCC	Cellular Component::GO:0034702
+Gene::63893	GpMF	Molecular Function::GO:0061631
+Gene::25	GpBP	Biological Process::GO:0030100
+Compound::DB00140	CbG	Gene::55312
+Gene::5534	Gr>G	Gene::6827
+Anatomy::UBERON:0002240	AdG	Gene::200159
+Compound::DB01059	CcSE	Side Effect::C0009676
+Gene::3068	GiG	Gene::9696
+Anatomy::UBERON:0002053	AeG	Gene::51663
+Gene::23155	GpMF	Molecular Function::GO:0015108
+Anatomy::UBERON:0000473	AuG	Gene::387911
+Gene::7143	GpBP	Biological Process::GO:0043062
+Gene::10771	Gr>G	Gene::708
+Gene::9474	Gr>G	Gene::5950
+Gene::9370	GpBP	Biological Process::GO:0045714
+Anatomy::UBERON:0002371	AdG	Gene::53838
+Gene::2395	GpMF	Molecular Function::GO:0004322
+Gene::3479	Gr>G	Gene::4602
+Gene::338382	GpBP	Biological Process::GO:0034144
+Compound::DB08828	CcSE	Side Effect::C0042963
+Gene::526	GpBP	Biological Process::GO:0009141
+Compound::DB01074	CuG	Gene::3726
+Anatomy::UBERON:0000995	AeG	Gene::80124
+Gene::3101	GpBP	Biological Process::GO:0042278
+Anatomy::UBERON:0002371	AeG	Gene::4171
+Gene::9978	GcG	Gene::2011

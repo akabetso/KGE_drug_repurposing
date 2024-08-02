@@ -27,6 +27,15 @@ class KGEModel(nn.Module):
         self.nrelation = nrelation
         self.hidden_dim = hidden_dim
         self.epsilon = 2.0
+
+        
+        # Define entity and relation embeddings
+        self.entity_embedding = nn.Embedding(self.nentity, self.hidden_dim)
+        self.relation_embedding = nn.Embedding(self.nrelation, self.hidden_dim)
+
+        # Initialize weights
+        self.init_weights()
+    
         
         self.gamma = nn.Parameter(
             torch.Tensor([gamma]), 
@@ -54,6 +63,8 @@ class KGEModel(nn.Module):
             a=-self.embedding_range.item(), 
             b=self.embedding_range.item()
         )
+
+
         
         if model_name == 'pRotatE':
             self.modulus = nn.Parameter(torch.Tensor([[0.5 * self.embedding_range.item()]]))
@@ -67,7 +78,13 @@ class KGEModel(nn.Module):
 
         if model_name == 'ComplEx' and (not double_entity_embedding or not double_relation_embedding):
             raise ValueError('ComplEx should use --double_entity_embedding and --double_relation_embedding')
-        
+
+
+    def init_weights(self):
+        nn.init.xavier_uniform_(self.entity_embedding.weight.data)
+        nn.init.xavier_uniform_(self.relation_embedding.weight.data)
+
+    
     def forward(self, sample, mode='single'):
         '''
         Forward function that calculate the score of a batch of triples.
